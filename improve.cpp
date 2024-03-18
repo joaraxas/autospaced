@@ -3,7 +3,8 @@
 #include <algorithm>
 #include <iterator>
 #include <random>
-#include <windows.h>	 	//for utf-8 windows console output
+//#include <windows.h>	 	//for utf-8 windows console output
+#include <locale>
 #include <fstream>
 #include <vector>
 using namespace std;
@@ -13,7 +14,7 @@ bool testingdueexponential(int tim, int pnt) {
 	return(dags);
 }
 
-bool testingdueoptimized(int tim, int pnt) { // optimerad
+bool testingdueoptimized(int tim, int pnt) {
 	bool dags = 0;
 	if(pnt == 0){
 		dags = 1;
@@ -29,20 +30,22 @@ bool testingdueoptimized(int tim, int pnt) { // optimerad
 	return(dags);
 }
 
-bool testingduerandom(int tim, int pnt) { // random
+bool testingduerandom(int tim, int pnt) {
 	bool dags = (time(0)-tim >= 8*pnt) && (rand() / (RAND_MAX + 1.))<(float(pnt)/float(time(0)-tim)*8+0.01);
 	return(dags);
 }
 
 int main() {
-    SetConsoleOutputCP(65001);
+    //SetConsoleOutputCP(65001); //windows terminal encoding
 	string in;
 	
-    //~ vector<string> languages = {"langs/japanska", "langs/kannada", "langs/tyska", "langs/rougon", "langs/franska"};
+    //~ vector<string> languages = {"japanska", "kannada", "tyska", "rougon", "franska"};
 	//~ vector<string> delimiters = {": ","\t" , ": ", "\t", ": "};
-    vector<string> languages = {"langs/schweizertyska"};
-	vector<string> delimiters = {": "};
-    //~ vector<string> languages = {"langs/ryskaidag", "langs/farsi"};
+    //vector<string> languages = {"schweizertyska"};
+	//vector<string> delimiters = {": "};
+    vector<string> languages = {"en"};
+	vector<string> delimiters = {"\t"};
+    //~ vector<string> languages = {"ryskaidag", "farsi"};
 	//~ vector<string> delimiters = {"\t", ": "};
 	int keepplaying = 1;
 	bool opposite = 1;
@@ -89,11 +92,13 @@ int main() {
 	    string language = languages[iFile];
 		string delimiter = delimiters[iFile];
 		// Read language file
-	    string langfilename = language + ".txt";
-	    string langtmpname = language + "tmp.txt";
+	    string langfilename = "langs/" + language + ".txt";
+	    string langtmpname = "langs/" + language + "tmp.txt";
 		cout << "loading " << langfilename << " ..." << endl;
 	    ifstream infile(langfilename);
 	    ofstream infiletmp(langtmpname);
+		std::random_device rd;
+    	std::mt19937 g(rd());
 	    
 	    while(getline(infile, line)){
 			if(line.size()>2){
@@ -110,7 +115,7 @@ int main() {
 				}
 				else{
 					while(find(inds.begin(), inds.end(), ind)!=inds.end()){
-						random_shuffle(alfabet.begin(), alfabet.end());
+						shuffle(alfabet.begin(), alfabet.end(), g);
 						ind = alfabet.substr(0,3);
 					}
 					line = ind + "\t" + line;
@@ -155,7 +160,10 @@ int main() {
 		if(indices.size()>0){
 			cout << "how many words?" << endl;
 			getline(cin, in);
-			if(in=="-"){in="0";}
+			if(in=="-"||in==":q"||in=="0"){
+				in="0";
+				keepplaying=0;
+			}
 			if(in!=""){
 				numwords = stoi(in);
 				indices.resize(numwords);
@@ -168,7 +176,7 @@ int main() {
 				keepplaying=0;
 			}
 		}
-		random_shuffle(indices.begin(), indices.end());
+		shuffle(indices.begin(), indices.end(), g);
 		
 	    numwords = indices.size();
 		cout << numwords << " words" << endl;
@@ -182,8 +190,7 @@ int main() {
 			if(keepplaying){
 				int wi = indices[i];
 				int timepassed = time(0) - wordtims[wi];
-				cout << words1[wi] << "\t";
-				cout << wordpnts[wi] << "\t";
+				cout << words1[wi] << endl;
 				cout << timepassed << endl;
 				getline(cin, answer);
 				cout << words2[wi] << "\t";
@@ -201,7 +208,7 @@ int main() {
 					numwords = i;
 				}
 				else{
-					cout << "rätt (')? ";
+					cout << "correct (')? incorrect (-)? ";
 					getline(cin, result);
 					if(result == ""){result = "'";}
 					if(result == "/"){result = "-";}
@@ -245,6 +252,4 @@ int main() {
 		}
 	}
 	}
-	
-	
 }
