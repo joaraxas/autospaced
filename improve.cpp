@@ -1,15 +1,15 @@
 #include <string>
-#include <iostream>			//cout
-#include <windows.h>	 	//SetConsoleOutputCP
-#include <bits/stdc++.h> 	//vector
+#include <iostream>
+#include <windows.h>	 	//for utf-8 windows console output
+#include <vector>
 using namespace std;
 
-bool dags_att_testa1(int tim, int pnt) {
+bool testingdueexponential(int tim, int pnt) {
 	bool dags = (time(0)-tim >= 2*pnt) && (rand() / (RAND_MAX + 1.))<0.4;
 	return(dags);
 }
 
-bool dags_att_testa(int tim, int pnt) { // optimerad
+bool testingdueoptimized(int tim, int pnt) { // optimerad
 	bool dags = 0;
 	if(pnt == 0){
 		dags = 1;
@@ -25,7 +25,7 @@ bool dags_att_testa(int tim, int pnt) { // optimerad
 	return(dags);
 }
 
-bool dags_att_testa2(int tim, int pnt) { // random
+bool testingduerandom(int tim, int pnt) { // random
 	bool dags = (time(0)-tim >= 8*pnt) && (rand() / (RAND_MAX + 1.))<(float(pnt)/float(time(0)-tim)*8+0.01);
 	return(dags);
 }
@@ -134,7 +134,7 @@ int main() {
 			    wordpnts.push_back(pnts[ofi]);
 			    wordtims.push_back(tims[ofi]);
 			    wordinds.push_back(inds[ofi]);
-			    if(dags_att_testa(wordtims[num], wordpnts[num])){
+			    if(testingdueoptimized(wordtims[num], wordpnts[num])){
 				    indices.push_back(num); // rows for entries to test in sprak.txt
 				}
 			    infiletmp << line << endl;
