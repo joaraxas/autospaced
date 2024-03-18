@@ -1,0 +1,150 @@
+voq	maga	son
+aol	hEgE	how
+gjz	Henge idyaa?	How are you?
+rqk	howdhu	yes
+sih	illa	no
+rtc	naanu	I
+lyr	nanna	my
+gzl	neenu	you
+ilo	ninna	your
+zql	avanu	he
+qhy	avaLu	she
+000	idu	this
+001	adu	it/that
+cdx	thinnu	eat
+qvo	nanna ooru Stockholm	I'm from Stockholm
+vdh	chennagi	good
+fhm	aaraam	cool
+ryc	yenu	what
+gdw	heseru	name
+siz	mane	house
+ump	aalu gaDDe	potato
+qis	ondu	one
+wdp	eraDu	two
+hzr	muuru	three
+gch	naalku	four
+wky	aidu	five
+hvu	aaru	six
+bhc	hattu	ten
+qpf	meeju	table
+pms	saaku	(be) enough
+dsf	sigoNa	good bye
+nqs	pustaka	book
+vhl	kiTiki	window
+ltk	ninne	yesterday
+bly	naaLe	tomorrow
+002	iru	be in a state
+hvk	naanu idiini	I am
+zyn	neenu iddiiri	you are
+ghq	avanu idaane	he is
+phl	avaLu idaaLe	she is
+frs	maaDu	cabinet
+drh	baagiluu	door
+qia	beeku	want
+oec	alla/illa	not
+zlo	dayaviTTu	please
+eta	hOgu	go
+pkr	nandu	mine
+gcr	nindu	yours
+thz	nanage	me dat
+glf	alli	there
+zwv	illi	here
+gno	idu chennagidhe	this is good
+lbr	thogu	take
+hgz	eega	now
+hqd	aaga	then
+pbg	koDu	give
+tqn	koDi	give!
+toz	gothilla	don't know
+eaf	yaaru	who
+vrz	yaavdu	which
+gav	yaavaga	when
+dzg	yelli	where
+num	yaake	why
+yjt	avaru	they
+hvx	shubha dina	good day
+klc	dina (dine?)	day
+stb	Nanage … ishTa	I like …
+skr	Nanage … baruthe	I can …
+hnk	Nanage kannaDa maathanaaDalu baruthe	I can speak Kannada
+ncg	pashchima	West
+bfv	beLLuLLi	garlic
+bjf	aDige mane	kitchen
+gco	vidyaarthi	student
+owm	mattu	and
+nid	eeLu	seven
+pbf	eNTu	eight
+uev	ombattu	nine
+alh	hOgONa	let's go
+ktw	naanu hoguthEnE	I will go
+uyj	avanu hoguthane	he will go
+glm	nanage kannaDa gothu	I know Kannada
+thm	idya	you are?/it is?
+vty	baarthini	I will come
+ufo	ooru	native place
+yro	hannondu	eleven
+mbw	hadimuuru	thirteen
+swr	aahaara	food
+dkb	aadare	but
+dyv	naavu	we
+htw	-alli, -nalli, -dalli	in
+ycs	Naan inDyaadalli iddiini	I am in India
+hxe	Niinu ruumnalli iddiiraa?	Are you in the room?
+tpi	Xaa Yaa?	X or Y? (disjunctive)
+yvc	idu pustakavaa pennaa?	Is this a book or a pen?
+xvs	kelsa	work n
+uiy	niivu	y'all
+aic	kelsdalli	busy
+aek	mara	tree
+wrd	Tii ishTavaa kaafi ishTavaa?	Do you like tea or coffee?
+mce	maaDalli	in the cabinet
+qph	kashTa	trouble
+jct	dhanyavaadagalu	thank you
+uix	koLi	lamb
+dea	hanDi	pork
+ulx	amma	mother
+qwb	appa	father
+tjp	tata	grandpa
+tsn	kshamisi	sorry
+hew	naanu maDtiini	I will do
+vwp	nanage … beda	I don't want …
+fpo	niiru	water
+znv	loTa	glass
+uxa	kELu	listen
+yjv	HeLu	tell
+kid	horage	outside
+vgq	oLage	inside
+gzp	namma	ours
+fmt	kurchi	chair
+xop	namaskaara	hello
+gcn	thumba	much
+qhx	susvaagatha	welcome
+zbr	sundara	beautiful
+hdq	sundaravaagiDe	it is beautiful
+vbx	shubhoodaya	good morning
+syb	shubharaatri	good night
+pro	… shubhaashayagaLu	happy …
+hgc	banna	color
+fvy	uuta	meal
+ivr	uttara	North
+unt	magaLu	daughter
+bca	nuuru	hundred
+nyr	saavira	thousand
+afm	laksha	100'000
+uci	koTi	10'000'000
+wpn	iiruLLi	onion
+hst	elekoosu	cabbage
+vta	kappu	black
+nvg	biLi	white
+vgo	khaaki	brown
+hgk	jote	with
+lvw	naanu kuuDa	me too
+xfh	kudee	drink
+004	aDu	play
+lnb	gellu	win
+tge	moTTe	egg
+dae	kuri	chicken
+ulb	saru	broth/curry
+fuk	sualpa	some
+ygo	maDta	doing
+avs	maDta iddiiri	you are doing

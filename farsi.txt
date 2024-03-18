@@ -1,0 +1,314 @@
+vpx	jam: kopp
+mrj	bamdad: morgon
+tvs	kutah: kort
+rae	hämechiz dan: allmänbildning
+qrl	﻿-and: 3 pers. pl.
+vrs	-id: 2 pers. pl.
+mxu	Qesmät: del
+itc	Ba yeki ashna sh: lära känna någon
+nix	Enqelab: revolution
+lba	Hes e xub: en bra känsla
+mts	Khosh amädid: välkommen
+noy	Sobh be kheir: god morgon
+qvy	Durud: hej
+txi	Mämnun: tack
+fxt	Bebakhshid: ursäkta
+htx	Pänj-shänbe: torsdag
+pac	Jome: fredag
+wey	Sim: kabel
+swa	Mähäli: lokal
+low	Abnäma: fontän
+imd	Tänha: ensam
+yvi	Deh: by
+fxn	Espänd: ceremoniell rök som skyddar
+dij	Färhäng: kultur
+wfg	Parsal: förra året
+hye	Solh: fred
+qif	Älbäte: självklart
+qyi	Affärin: bravo
+rym	Säpas: tack
+lfh	Jabab: svar
+ijw	Posht: baksida
+jel	Bazäm: igen
+tnh	Ashghal: sopor
+xjp	Jähan, donya: världen
+bef	Kosh: döda
+tmg	Khoshayänd: trefligt
+eyw	Inf.+i: Inf.värt
+qad	Meæmar: arkitekt
+ydm	Ärz: vara värt
+waj	Moshkeli: problem
+qxc	Tärif kon: berätta
+aey	Khonak: sval
+yov	Sär e: på
+ira	Surakh: hål som man kan se genom
+gqn	Pirahän: skjorta
+kqi	Ghärb: väster 
+zvp	Däräje: grader
+adl	Si o se: 33
+uyd	Mohem: viktig
+ryu	Durugh g: ljuga
+hjp	Näfär: person
+azi	Ahän: järn
+pzt	Gheymät: pris
+rhy	Isterahäd kon: vila
+gaz	Näzdig: nära
+vsq	Shulugh: fullsmockat
+wqd	Äsabani: arg
+wch	Dobare: igen
+rqw	Abezudi: snart
+uel	Bazhäm: en till
+ykw	Ävälin ...: första ...
+tcp	Pain: nedåt
+fqz	Khärab: sliten
+pey	Käfsh: sko
+cfo	Ghädimi: gammal, antik
+obz	Färgh (dare): skillnad
+mbe	Intori: på det här sättet
+ojn	Seda: ljud
+qmo	Adät kon: vänja sig
+rbx	Shoma: ni
+icu	Be näzär khub miad: verkar bra
+wgj	-sära, -gah: ställe
+doa	Tahala: hittills, någonsin
+qkg	Deraz: lång
+ulk	Lazäm: behov
+hsy	Ta: tills
+qnt	Hezar: tusen
+zua	Säd: hundra
+ubc	Dvist: tvåhundra
+pcm	Punsäd: femhundra
+kpj	Zire: under
+ynx	Hämzäman: samtidigt
+lsn	Bu ye: lukt, med shnäv eller d
+fcg	Ziad: mycket
+xji	Ziadí: för mycket, alltför
+yqj	Ar: hämta
+vfq	Sir: mätt
+ypu	Bamäze: gullig
+rit	Gärd: leta
+cyv	Sefid: vit
+qxw	Chärb: fet
+fky	Säft: fast
+skt	Tut: bär
+xpe	Chis-ha: grejer
+sfo	Mäæruf: känd
+gnz	Zäban: tunga
+qel	Durbin: kamera
+gle	Äks: foto
+lrm	Bärgeshtän, bärgärdäm: återvända
+hes	Akhär e ... : slutet på ...
+wms	Esm: namn
+agv	Därmored: om, angående
+gtd	Färsh: matta
+ebs	Mordad: juli/augusti
+hat	Beläkhare: äntligen
+xlh	Shähr: stad
+iwq	Äjib ghärib: konstig
+ret	Häm dige: varandra
+aig	Bär: ta bort
+dec	Shälvar: byxor
+pgk	Rahät: bekväm
+hem	Lebas: kläder
+tiw	Bäche: barn
+unm	Mehrabun: snäll
+pas	Pärände: fågel (fjäderfä)
+hri	Heyvun: djur
+sox	Ahäng: song
+cnu	Gerun: dyr
+hup	Arzun: billig
+ufa	Shnäv: höra
+xwj	Furudgah: flygplats
+wks	Häva peyma: flygplan
+yto	Movaseb: försiktig
+ods	Chaghu: knif
+ikz	Ghäshäng: vacker
+dsm	Bär e : vid
+far	Vay: omg
+esi	Ashegh: kavaljer
+unb	Bighärar: rastlös
+oci	Khäbär: nyheter, vetskap
+ive	Del: mage (motsvarande hjärta)
+jkp	Gozär kon: passera
+nki	Bala: uppåt
+fbt	Sär: huvud
+kjg	Därd: värk
+sgl	Mian: mellan
+ucj	Atäsh: eld
+mcu	Särf: sida
+bjy	Por: full
+unc	Dud: rök
+qcg	Bekesh: dra
+wub	Mah: månad/måne
+ins	-än: adverb (endast arabiska ord)
+dck	Entekhab kon: välja
+psl	Däfe: gång
+zhf	Bäædi: nästa
+haw	Märdum: folket
+gxv	Bäst: stänga
+vlb	Bänd: stänga
+mgs	Ghäblän: redan
+qie	Rah: väg
+opl	Äsb: häst
+lue	Mishe goft: man säger
+kun	Gofte mishe: det sägs
+tjs	Yäæni chi?: vad betyder det?
+eov	...-ban: någon som tar hand om ...
+pbv	Mizban: värd
+tou	Dasht: hade
+moi	Be-: konjunktiv
+jwn	Vaghän: verkligen
+zvj	Bäæzi väghta: ibland
+gto	Shin: sitta
+wsf	Mäsälän: t.ex.
+yfx	Hämin: this one om det har nämnts tidigare
+lij	Sängin: tung
+zpa	Pors porsid porsesh
+ypa	Väghti ba babam mizädam
+omd	Goshne: hungrig
+rhk	Mäæmulän: ofta
+lcq	Täghribän: nästan
+crx	Khände dar: rolig
+azw	Adäm e pul dar: rika människor
+fnb	Yäkh chal: ishål, kylskåp
+kpq	mun: stanna kvar
+zjl	nä mikham dige kar bekonam: jag vill inte jobba mer
+fxc	Däh däghighe ye dige: 10 min till (vanligare)
+tef	Där 10 dg.: Om 10 min (mindre vanligt)
+djm	Ghätar: tåg
+dsa	Päs: således
+kdx	Tämrin kon: öva
+zgb	Res: komma fram
+pxe	Besham: bli
+ghj	Basham: vara
+tdj	Häva: väder, luft
+ahf	Jädid: ny
+gis	Yadäm miofte (mioftad): jag kommer ihåg (kom)
+jdu	Yad d: lära ut
+qjg	Yadäm raft: jag glömde
+tvq	Märiz: sjuk
+dgc	Hämishe: alltid
+ndj	-Ro Yäd gir: lära sig
+qyj	Bayäd miräftäm: jag var tvungen att gå
+hnm	Khastäm beräm: jag ville gå
+zhl	Panja: 50
+tye	Bist o char sal: 24 år
+liy	Ghor zän: klaga
+afd	Tavallod: födelsedag
+dra	Motevalled sh: födas
+tif	Härf zän / sohbät kon / sokhan g: prata
+euo	där ruz: per dag
+olx	dur: långt bort
+iur	zud: tidigt
+vky	dir: sent
+uvi	där vaghe': verkligen
+edy	Bäæd az: efter
+xed	Kälame: ord
+dli	-ha: pl. partitiv endast om antalet är obestämt (ej måttsattribut)
+dlb	Deräkhtha ye to säbztär e: dina träd är grönare
+sdq	Sägha raftan: hundar kan röra sig så de får pluralböjning på verbet
+rev	Kheili Deräkht: många träd
+krb	Bi: utan, -lös
+hrs	Bichare: stackars
+zcm	Khäste: trött
+jep	Bahush: smart
+rpz	Gush: öra
+tuw	otagh: rum
+ngk	R      päz     kha     gir       g      sh      zän suz    nevis      ay: Raft Pokht Khast gereft goft shod zad socht nevesht umäd
+eky	Häme bejoz Adam: alla utom Adam
+xqo	Här: varje
+ocr	Fähm: förstå
+zec	Sh: bli
+nev	Bedun e: utan
+ieb	Bäæd: sedan
+yif	Ba: med
+ulr	Be: till
+nqb	Tamum esh kon: avsluta det
+zbv	Yad gir: lära sig
+gnj	Khoshhal: glad
+tqz	Hanuz: fortfarande, än
+hxp	In bar: den här gången
+oky	Däst mal: hushållspapper
+njs	Emshäb: ikväll
+und	Diruz: igår
+jyl	... bishtär: mer
+sur	Shuru kon be +inf: börja (ska skapas med t.ex. be kärdän, om man inte påbörjar en ny vana)
+iux	Däghighe: minut
+pyw	Fäghät: bara
+ahq	Käre: smör
+xfs	Khame: grädde
+vsh	shiir: mjölk
+lmw	Tu = där: i
+urs	Name: brev
+jzc	Nevis, nevesht: skriver, skrev
+nfc	ämma: men
+rvd	älan: nu
+cma	ya: eller
+rth	Ashpäz: kock
+wrl	mäst: full
+how	dorost kon: göra rätt, klart /make
+bkw	Ghäza: mat
+jhf	Khab: sova
+wbl	Khol: loco
+alx	Yek kam: lite
+aez	-Estan: ställe
+soy	Mal e man: min
+wmg	bära je: för
+dyg	päsar: kille
+njy	Säbr kon: - göra tålamod
+dac	(Chi) Väghti: när(?)
+vso	Väght: tid
+can	Kheili: mkt.
+kte	Kolli: mkt.
+egf	Adäm: folk
+yej	Bozorg: stor
+pvo	Dust dar: älska
+ljp	Ay: komma
+lmd	Daräm miayäm: I'm coming
+ezu	Ruz: dag
+chi	Zäman: tidspunkt, dags att
+lwj	Be käsi: till någon
+bgq	Bayäd: be- måste (nödvändigtvis)
+keu	Shayäd: be- kanske
+ewa	Säri: snabb
+ahv	Kond/aheste: långsam
+ayg	Ru: på
+wix	Päss: så
+hkv	Gir: ta
+bov	Häme(chi): allt/alla
+goy	Hämeja: överallt
+dlw	Hich -i (hichchi): rien inget
+fim	Hichkäs: nobody
+gkm	Chisi: någonting (sak)
+sfm	Bud: var
+trl	Einäk: glasögon
+ngs	Estefade kärdän: att använda
+ecb	Fekr kon: tro
+fjo	Be in fekr kon: tänka på det här
+xnu	Be näzär e män (näzäräm): enligt mig/jag tycker att
+waz	Äge: såvida/om
+qrx	Yanä: eller inte (huruvida)
+lwc	Bayäd bashim: vi borde/måste vara
+pen	Khod: själv
+atl	Khun: blod
+hwp	Be .../-ra negah kärdän: kolla på ...
+fdc	Mahi: fisk
+gvm	G: säga
+rmy	Därbare: om
+xsa	Äväl mishurim bäd roghan gärm mikonim bäd kämi shekär ezafe mikonim
+oet	Kodum: vilken
+jgn	Khär: köpa
+qty	Behtär äz: bättre än
+wzt	behtärin: bäst
+cxe	Bäd: dålig
+yuc	Ghäbl: förra
+ics	Ghäbl äz: innan, före
+qzw	livan: glas
+mng	Tokhm: reproduktionsrelaterat objekt
+gai	Morgh: höna
+bsp	Dombal e ... gärd: leta efter ...
+ibl	Dombal e: efter
+bri	Baäd az: efter att
+rdz	Päyda kon: hitta
+bhz	Yäkh mizäne: det fryser
+rhj	Che ghäd...: Oh så...!

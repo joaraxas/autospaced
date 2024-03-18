@@ -1,0 +1,1038 @@
+bko	аллергизи́рующий -ая, -ее; -ие adjektiv 	allergiframkallande
+xia	аллерги́ческий -ая, -ое; -ие adjektiv 	allergisk
+wuj	аппети́т -а; -ы, -ов substantiv m 	aptit
+dkl	бере́менность -и; -и, -ей substantiv f 	graviditet
+jur	беспоко́йный -ая, -ое; -ые adjektiv 	orolig
+wtg	бессо́нница -ы; -ы, -ø substantiv f 	sömnlöshet
+duq	боле́знь -и; -и, -ей substantiv f 	sjukdom
+qzm	бронхиа́льная а́стма -ы substantiv f 	bronkialastma, luftrörsastma
+qlh	бронхи́т -а; -ы, -ов substantiv m 	bronkit
+iod	вдыха́ть (-а́ю, -а́ешь; -а́ют) ipf 1K вдохнуть́ (-ну, -нёшь; -нут́ ) pf 2K verb 	andas in
+dcr	вероя́тность -и; -и, -ей substantiv f 	sannolikhet
+ywn	вещество́ -а́; -а́, -ств substantiv n 	ämne
+dre	взро́слый -ая, -ое; -ые adjektiv 	vuxen
+qpb	витами́н -а; -ы, -ов substantiv m 	vitamin
+npa	влия́ние -ия; -ия, -ий substantiv n 	påverkan
+cqh	возде́йствиe -ия; -ия, -ий substantiv n 	påverkan
+shx	возде́йствовать (-вую, -вуешь; -вуют) biaspektuellt 1K verb 	verka
+hle	возника́ть (-а́ю, -а́ешь; -а́ют) ipf 1K возни́кнуть (-у, -ешь; -ут) pf 1K verb 	uppstå
+pmj	во́зраст -а; -ы, -ов substantiv m 	ålder
+tjz	вред -а́; -ы́, -о́в substantiv m 	skada
+hjk	вре́дный -ая, -ое; -ые adjektiv 	skadlig
+mzl	втори́чный -ая, -ое; -ые adjektiv 	sekundär
+ani	вызыва́ть (-а́ю, -а́ешь; -а́ют) ipf 1K вы́звать (-зову, ́ -зовешь; -вут) pf 1K verb 	framkalla
+zuc	выкуривать ́ (-аю, -аешь; -ают) ipf 1K вы́курить (вы́курю, -ишь; -ят) pf 2K verb 	röka upp, röka slut på
+tgl	выно́сливость -и substantiv f 	uthållighet, motståndskraft
+bjo	выявлять́ (-яю́ , -я́ешь; -я́ют) ipf 1K вы́явить (-влю, -вишь, -вят) pf 2K verb 	visa, upptäcka, identifiera
+vho	головна́я бо́ль -и substantiv f 	huvudvärk
+opu	головно́й -а́я, -о́е; -ы́е adjektiv 	huvud-
+dsh	головокруже́ние -ия; -ия, -ий substantiv n 	yrsel
+syj	де́йствие -ия; -ия, -ий substantiv n 	effekt
+rsg	де́тский -ая, -ое; -ие adjektiv 	barn-
+vuo	до́за -ы; -ы, -ø substantiv f 	dos
+rol	дым -а; -ы́, -о́в substantiv m 	rök
+ukz	дыха́ние -ия; -ия, -ий substantiv n 	andning
+oep	дыха́тельный -ая, -ое; -ые adjektiv 	andnings-
+eso	дыша́ть (-шу́, -шишь; -шат) ipf 2K) ды́хнуть (-ну́, -нёшь; -ну́т) pf 1K verb 	andas
+gyk	ежедне́вно adverb 	dagligen
+ngx	за раз 	på en gång
+tdu	заболева́ние -ия; -ия, -ий substantiv n 	sjukdom, åkomma
+ygw	заболева́ть (-а́ю, -а́ешь; -а́ют) ipf 1K заболе́ть (-е́ю, -е́ешь, -е́ют) pf 2K verb 	insjukna
+qpv	заде́ржка -и; -и, -жок substantiv f 	fördröjning
+yzm	здоро́вый -ая, -ое; -ые adjektiv 	frisk
+xrk	значи́тельно adverb 	betydligt
+sqd	имму́нный -ая, -ое; -ые adjektiv 	immun-
+jlh	инфекцио́нный -ая, -ое; -ые adjektiv 	infektions-
+oyz	килогра́мм -а; -ы, -ов/-ø substantiv m 	kilo
+xhu	кислоро́д -а substantiv m 	syre
+tpa	кле́тка -и; -и, -ток substantiv f 	cell
+xmh	коли́чество -а; -а, -ств substantiv n 	kvantitet
+icl	кровено́сный сосу́д substantiv m 	blodkärl
+dru	куре́ние -ия substantiv n 	rökning
+sui	кури́льщик -а; -и, -ов substantiv m 	rökare
+qvr	кури́ть (курю́, -ишь, -ят) ipf 2K по- = pf 2K verb 	röka
+spx	куря́щий -его; -ие, -их substantiverat particip 	rökare
+ibp	лёгкие Obs! pl. Gen. -их substantiverat adjektiv 	pl. lungor
+qgo	луч -а́; -и́, ье́й substantiv m 	stråle
+wuf	ма́сса -ы; -ы, -ø substantiv f 	massa, vikt
+mdw	ма́ть ма́тери; ма́тери, матере́й substantiv f 	mor
+fxp	метаболи́зм -а; -ы, -ов substantiv m 	metabolism, ämnesomsättning
+cyk	мо́зг -а; -и́, -о́в substantiv m 	hjärna, märg
+wfv	наблюда́ть (-а́ю, -а́ешь; -а́ют) ipf 1K по- = verb 	observera, iakkta
+pua	напряже́ние -ия; -ия, -ий substantiv n 	tryck
+xgf	наруша́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K нару́шиться (-рушу ́ сь, -ру́шишься; -ру́шатся) pf 2K verb 	brytas
+mkg	наступа́ть (-а́ю, -а́ешь; -а́ют) ipf 1K наступи́ть (-плю́, -пишь, -пят) verb 	anfalla, vara nära förestående
+zvu	негати́вно adverb 	negativt
+obe	негати́вный -ая, -ое; -ые adjektiv 	negativ
+bjd	никоти́н -а substantiv m 	nikotin
+kor	облада́ть (-а́ю, -а́ешь; -а́ют) ipf 1K verb	+ Instr. 	ha, behärska
+yxc	обсле́довать (-дую, -дуешь; -дуют) biaspektuellt 1K verb 	utreda
+wtm	обструкти́вный -ая, -ое; -ые adjektiv 	obstruktiv
+mty	объём -а; -ы,-ов substantiv m 	volym
+diw	одина́ковый -ая, -ое; -ые adjektiv 	likadan
+pfi	опа́сно adverb 	farligt
+ikw	органи́зм -а; -ы, -ов substantiv m 	organism, kropp
+rxe	остано́вка -и; -и, -о́вок substantiv f 	uppehåll, stopp, hållplats
+dib	остано́вка се́рдца substantiv f 	hjärtstillestånd
+piz	о́стрый -ая, -ое; -ые adjektiv 	skarp, vass, allvarlig
+ste	отлича́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K отличи́ться (-личус́ ь, -личи́шься; -лича́тся) pf 2K verb + Instr. 	karaktäriseras av
+nhl	относи́тельно adverb 	relativt
+dzq	отравле́ние -ия; -ия, -ий substantiv n 	förgiftning
+apt	отража́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K отрази́ться (-жус́ ь, -зи́шься; -зя́тся) pf 2K verb 	reflekteras, avspeglas
+sng	отстава́ть (-стаю́, -стаёшь, -стаю́т) ipf 1K отста́ть (-ста́ну, ста́непь; -ста́нут) pf 1K verb 	bli efter
+ntm	па́мять -и; -и, -ей substantiv f 	minne
+yum	пасси́вный -ая, -ое; -ые adjektiv 	passiv
+uha	па́чка сигаре́т па́чки; -и, па́чек substantiv f 	cigarrettpaket
+yqt	письмо́ -а́; -а, пи́сем substantiv n 	skrift, brev
+ijo	пита́ние -ия; -ия, -ий substantiv n 	tillförsel
+mlz	пищевари́тельный -ая, -ое; -ые adjektiv 	matsmältnings-
+wph	пневмони́я -и́и; -и́и, -ий substantiv f 	lunginflammation
+spg	по сравне́нию 	i jämförelse
+pft	повыша́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K повы́ситься (повы́шусь, -вы́сишься, -вы́сятся) verb 	höjas
+zhw	подро́сток -стка; -стки, -стков substantiv m 	tonåring
+cuo	подря́д adverb 	i rad
+fxr	полови́на -ы; -ы, -ø substantiv f 	hälft, halva
+nrk	понижа́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K пони́зиться (-жусь, -зишься; -зятся) pf 2K verb 	sänkas
+pfh	пораже́ниe -ия; -ия, -ий substantiv n 	nederlag
+vhy	появля́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K появи́тья (-влю́сь, -вишься; -вятся) pf 2K verb 	visa sig
+nvk	практи́чески adverb 	praktiskt
+nzx	предрасполо́женность -и; -и, -ей substantiv f 	benägenhet
+uyc	прекраща́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K прекрати́ться (-щу́сь, -ти́шься; -тя́тся) pf 2K verb 	sluta, upphöra
+ndx	припа́док -дка; -дки, -дков m 	anfall
+cqy	причи́на -ы; -ы, -ø substantiv f 	anledning
+xte	причиня́ть (-яю́ , -я́ешь; -я́ют) ipf 1K причини́ть (-ню́, -ни́шь; -ня́т) pf 2K verb 	tillfoga
+qip	промежу́ток -тка; -тки, -тков substantiv m 	mellanrum, intervall
+sop	про́чий -ая, -eе; -ие adjektiv 	övrig
+esh	работоспосо́бность -и; -и, -ей substantiv f 	arbetsförmåga
+npk	развива́ющийся -аяся, -eеся; -иеся adjektiv 	utvecklings-, som utvecklas
+reh	разруша́ть (-а́ю, -а́ешь; -а́ют) ipf 1K разру́шить (-ру́шу, -рушишь ́ ; -ру́шат) pf 2K verb 	förstöra
+gxl	ра́нний -яя, -eе; -ие adjektiv 	tidig
+shg	расстра́иваться (-а́юсь, -а́ешься; -а́ются) ipf 1K расстро́иться (-стро́юсь, -стро́ишься; -стро́ятся) pf 2K verb 	komma i oordning, svikta, bli sämre
+vyg	регистри́ровать (-рую, -руешь, -руют) ipf 1K за- = pf 1K verb 	registrera
+nzg	ре́зкий -ая, -ое; -ие adjektiv 	skarp, akut
+nwq	респира́торный -ая, -ое; -ые adjektiv 	andnings-
+twg	риги́дный -ая, -ое; -ые adjektiv 	rigid
+bet	риск -а; -и, -ов substantiv m 	risk
+odj	рожда́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K роди́ться (рожу́сь, -роди́шься, родя́тся) pf 2K verb 	födas
+iye	ро́ст -а substantiv m 	växt
+ogz	са́хар -а (-у) substantiv m 	socker
+oxs	све́рстник -а; -и, -ов substantiv m 	jämnårig
+pez	свы́ше adverb komp. 	mer än
+hlx	семья́ -и́; -и, -е́й substantiv f 	familj
+pav	се́рдце -а; -а́, серде́ц substantiv n 	hjärta
+snu	сжима́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K сжа́тся (сожмусь́ , сожмёшься; сожмуся́ ) pf 2K verb 	tryckas ihop
+oef	сигаре́та -ы; -ы, -ø substantiv f 	cigarrett
+fkz	ска́зыватся (-аюсь, -аешься; -аются) ipf 1K сказа́ться (-жу́сь, -жешься; -жутся) pf 1K verb 	säga, visa sig, återverka på
+ikr	слу́чай -а; -и; -ев substantiv m 	fall, slump, tillfälle
+lhi	слу́чай сме́рти substantiv m 	dödsfall
+jbv	смерть -и substantiv f 	död
+etq	снижаться ́ (-а́юсь, -а́ешься; -а́ются) ipf 1K сни́зиться (-жусь, -зишься; -зятся) pf 2K verb 	sänkas
+hlz	содержа́ться (-жу́сь, -жишься; -жатся) ipf 2K verb 	rymmas
+ocm	сокраще́ние -ия; -ия, -ий substantiv n 	sammandragning, nedskärning
+xwu	сон сна; сны, снов substantiv m 	sömn, dröm
+kqj	сосу́д -а; -ы, -ов substantiv m 	kärl
+zsr	спосо́бность -и; -и, -ей substantiv f 	förmåga
+qan	сравне́ние -ия; -ия, -ий substantiv n 	jämförelse
+src	страдать́ (-а́ю, -а́ешь; -а́ют) ipf 1K по- = pf 1K verb 	lida
+hlf	су́живаться (-аюсь, -аешься; -аются) су́зиться (су́жусь, -ишься; -атся) pf 2K verb 	smalna av, bli trång
+umx	су́тки Gen. pl. сут́ ок substantiv plural 	dygn
+zat	сухо́й -а́я, -о́е; -и́е adjektiv 	torr
+cmb	таба́чный -ая, -ое; -ые adjektiv 	tobaks-
+vsn	те́ло -а; -а, -ø substantiv n 	kropp
+tbi	ти́п -а; -ы, -ов substantiv m 	typ
+soa	тре́бовать (-бую, -буешь; -буют) ipf 1K по- = pf 1K verb 	kräva
+wkv	тяжёлый -ая, -ое; -ые adjektiv 	tung, svår
+bxw	увели́чивать (-аю, -аешь; -ают) ipf 1K увели́чить (-у, -ишь; -ат) pf 2K verb 	förstora
+ovz	ультрафиоле́товый -ая, -ое; -ые adjektiv 	ultraviolett
+hcd	у́мственный -ая, -ое; -ые adjektiv 	sinnes-
+chk	усвоя́емость -и,-и; -ей substantiv f 	upptagningsförmåga
+gdt	утомля́емость -и,-и; -ей substantiv f 	utmattning
+ukd	ухудша́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K ухудшиться ́ (end. 3 p. ухудшится ́ ) verb 	försämras
+cjh	уча́щенный -ая, -ое; -ые adjektiv 	ökad
+rlj	ушно́й -а́я, -о́е; -ы́е adjektiv 	öron-
+scu	фу́нкция -ии; -ии, -ий substantiv f 	funktion
+xqs	хрони́ческий -ая, -ое; -ие adjektiv 	kronisk
+orj	части́ца -ы; -ы, -ø substantiv f 	partikel
+ogh	частота́ -ы́; -ы, -ø substantiv f 	frekvens
+zru	чте́ние -ия; -ия, -ий substantiv n 	läsning
+gkl	эпиле́псия -ии; -ии, -ий substantiv f 	epilepsi
+igh	ю́ный -ая, -ое; -ые adjektiv 	ung
+pzs	явля́ться (-яюсь ́ , -я́ешься; -яются ́ ) ipf 1K verb 	vara Obs! I bet. ’visa sig’
+gko	беспрецеде́нтный -ая, -ое; -ые adjektiv 	utan förebild, ej tidigare skådad
+qbe	бога́тый -ая, -ое; -ые adjektiv 	rik
+pyu	бо́льно adverb/predikativ	ont, smärtsamt
+ayw	броса́ть (-а́ю, -а́ешь; -а́ют) ipf 1K бро́сить (бро́шу, -сишь; -сят) pf 2K verb 	kasta, sluta, lägga av
+myf	в настоящ́ ее вре́мя 	för närvarande
+wbk	вани́льный -ая, -ое; -ые adjektiv 	vanilj-
+wqc	включа́ть (-а́ю, -а́ешь; -а́ют) ipf 1K включи́ть (-чу́, -чи́шь; -ча́т) pf 2K verb 	inkludera
+slk	вноси́ть (вношу́, -но́сишь; -но́сят) ipf 2K внести́ (внесу,́ -несёшь; -несу́т) pf 1K verb 	införa, bära in
+lfb	возмо́жность -и; -и, -ей substantiv f 	möjlighet
+ejg	вызыва́ть (-а́ю, -а́ешь; -а́ют) ipf 1K вы́звать (-зову́, -зовёшь; -зову́т) pf 1K verb 	framkalla
+xpb	госязы́к, госуда́рственный язы́к substantiv m 	statsspråk
+gbu	депута́т -а; -ы, -ов substantiv m 	deputerad
+fvz	для того́, что́бы bisatsinledare 	för att
+jnv	дорабо́тка -и; -и, -ок substantiv f 	finputsning, slutjustering
+tgn	Ду́ма, Госду́ма -ы substantiv f 	Statsduman, Rysslands parlament
+eqd	законопрое́кт -а; -ы, -ов substantiv m 	lagförslag
+hrt	запи́ска -и; -и, -ок substantiv f 	anteckning
+tnr	заседа́ние -ия; -ия; -ий substantiv n 	möte, sittning
+dxt	заявле́ние -ия; -ия; -ий substantiv n 	deklaration
+emd	изуче́ние -ия; -ия; -ий substantiv n 	studium
+kyw	како́й-нибу́дь кака́я-нибудь osv. pronomen indef. 	någon
+ehi	како́й-то кака́я-то osv. pronomen indef. 	någon
+lti	ко́е-како́й ко́е-кака́я osv. pronomen indef. 	en viss
+nfv	ко́е-кто ко́е-кого́ pronomen indef. 	någon/en och annan
+srp	ко́е-что чо́е-чего́ pronomen indef. 	något/ett och annat
+dva	кто-нибу́дь кого́-нибу́дь pronomen indef. 	någon, vem som helst
+mkf	кто-то кого́-то pronomen indef. 	någon
+kgw	мечта́ -ы́; -ы́, g. pl. saknas substantiv f 	dröm
+lfm	ми́рный -ая, -ое; -ые adjektiv 	fredlig
+rqy	молча́ть (-чу́, -чи́шь; -ча́т) ipf 2K замолча́ть = verb 	tiga
+eko	моро́женое -ого substantiv n 	glass
+tbe	му́жество -а substantiv n 	mod
+flo	на у́лице 	utomhus
+gmb	наре́чие -ия; -ия, -ий substantiv n 	dialekt, landsmål
+bvt	национа́льная респу́блика substantiv f 	”nationell republik”. I dagligt tal benämning på någon av det tjugotal mer eller mindre autonoma territorier som ingår i Ryska federationen
+zqe	недоста́ток -тка; -тки, -тков substantiv m 	brist
+hpi	несовершенноле́тний -яя, -ее; -ие adjektiv 	minderårig
+yqf	ны́нешний -яя, -ее; -ие adjektiv 	nuvarande
+omq	обуча́ющийся -aяся, -ееся; -иеся substantiverat adjektiv 	m studerande
+gir	одновреме́нно adverb 	samtidig
+jwf	отмеча́ть (-а́ю, -а́ешь; -а́ют) ipf 1K отме́тить (-ме́чу, -ме́тишь; -ме́тят) pf 2K verb 	märka, notera, fira
+oxt	парламента́рий -ия; -ии, -иев substantiv 	parlamentsledamot
+jdn	переодева́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K переоде́ться (-де́нусь, -де́нешься; -де́нутся) pf 1K verb 	byta om, klä om
+ujc	пла́кать (пла́чу, пла́чешь; пла́чут) ipf 1K запла́кать = verb 	gråta
+acz	подава́ть (подаю́, подаёшь; подаю́т) ipf 1K пода́ть (подам, подашь; подадут́ ) pf oreg. verb 	servera, lämna in
+xbw	поздно adverb 	sent, för sent
+val	попра́вка -и; -и, -вок substantiv f 	rättelse
+xlz	посо́бие -ия; -ия, -ий substantiv n 	lärobok
+rni	потре́бность -и; -и, -ей substantiv f 	behov
+stl	поясни́тельный -ая, -ое; -ые adjektiv 	förklarande
+pvr	поясня́ть (-я́ю, -я́ешь; -я́ют) ipf 1K поясни́ть (-ню́, -ни́шь; -ня́т) pf 2K verb 	förklara
+hbx	преде́л -а; -ы, -ое substantiv m 	gräns
+pcr	предполага́ть (-а́ю, -а́ешь; -а́ют) ipf 1K предположи́ть (-жу́, -жишь; -жат) pf 2K verb 	förutsätta
+lef	преподава́ние -ия; -ия, -ий substantiv n 	undervisning
+cqo	про́фильный -ая, -ое; -ые adjektiv 	profilрезона́нс -а; -ы, -ов substantiv m 	resonans, återklang
+qxy	речь идёт о + Lok. 	det rör sig om
+qin	родно́й -а́я, -о́е; -ы́е adjektiv 	hem-
+gtm	свети́ть (свечу,́ све́тишь; све́тят) ipf 2K verb 	lysa
+mrh	суще́ственно adverb 	väsentligt
+ica	счита́ть (-а́ю, -а́ешь; -а́ют) ipf 1K посчита́ть = verb 	räkna
+uxc	тем бо́лее 	desto mer
+gha	терпе́ние -ия; -ия, -ий substantiv n 	tålamod, fördragsamhet
+kdv	удово́льствие -ия; -ия, -ий substantiv n 	förnöjelse, nöje, behållning
+xzp	уточне́ние -ия; -ия, -ий substantiv n 	förtydligande
+ljv	уче́бная програ́мма substantiv f 	läroplan
+ohb	уче́бник -а; -и, -ов substantiv m 	lärobok
+smy	учёт -а; -ы, -ов substantiv m 	rapport, inventering, hänsyn, registrering, bokföring
+wfs	учи́тывать (-аю, -аешь; -ают) ipf 1K уче́сть (учту́, учтёшь; учтут́) pf 1K verb 	räkna med, ta hänsyn till
+yzl	учрежда́ть (-а́ю, -а́ешь; -а́ют) ipf 1K учреди́ть (-чрежу́, -чреди́шь, -чредя́т) pf 2K verb 	grundlägga, instifta, inrätta
+qzv	уще́рб -а; -ы, -ов substantiv m 	förlust
+wkl	факультати́вный -ая, -ое; -ые adjektiv 	fakultativ
+drb	формули́ровать (-рую, -руешь; -руют) ipf 1K сформули́ровать = verb 	formulera
+dcg	фра́кция -ии; -ии, -ий substantiv f 	fraktion
+jzs	худе́ть (-ею, -еешь; -еют) ipf 1K похуде́ть = verb 	magra, bli smal
+bed	чте́ние -ия; -ия, -ий substantiv n 	läsning
+qrf	что́бы bisatsinledare 	för att
+kvz	что-нибу́дь чего́-нибу́дь pronomen indef. 	något, vad som helst
+nwj	что-то чего́-то pronomen indef. 	något
+yti	шокола́дный -ая, -ое; -ые adjektiv 	choklad-
+cue	язы́к -а́; -и́, -о́в substantiv m 	språk
+iws	бы́стрый -ая, -ое; -ые adjektiv 	snabb, rask
+ars	бюдже́тный -ая, -ое; -ые adjektiv 	budget-
+dnq	в ме́ньшей сте́пени 	i mindre grad
+qla	в соотве́тствии с + Instr. 	motsvarande
+prv	ВВП (валово́й вну́тренний продуќт) substantiv m 	bruttonationalprodukt
+mpa	Вели́кая Oте́чественная война́ substantiv f 	Stora fosterländska kriget, 1941–45
+xuv	вели́кий -ая, -ое; -ие adjektiv 	stor (= betydelsefull)
+xtj	вне́шний -яя, -ее; -ие adjektiv 	yttre
+snz	война́ -ы́; -ы, -ø substantiv f 	krig
+ozw	вы́ход -а; -ы, -ов substantiv m 	utgång
+exs	господи́н -а; господа́, госпо́д substantiv m 	herre, herrskap
+qrg	госпожа́ -и́; -и́, госпо́ж substantiv f 	fru
+ahb	госуда́рственный -ая, -ое; -ые adjektiv 	statlig, stats-
+zes	госфина́нсы -ов substantiv pl. 	statsfinanser
+unw	граждани́н -а; гра́ждане, гра́ждан substantiv m 	medborgare (man)
+fqm	гражда́нка -и; -и, -нок substantiv f 	medborgare (kvinna)
+lfy	демографи́ческий -ая, -ое; -ие adjektiv 	demografisk
+vux	дефици́т -а; -ы, -ов substantiv 	deficit, underskott
+ely	динами́чный -ая, -ое; -ые adjektiv 	dynamisk
+mgn	дисбала́нс -а; -ы, -ов substantiv m 	obalans
+ide	долгово́й -а́я, -о́е; -ы́е adjektiv 	skuld-
+eua	долгосро́чный -ая, -ое; -ые adjektiv 	långsiktig
+tlx	еди́ный -ая, -ое; -ые adjektiv 	enad, enhetlig
+ecf	зави́симость -и; -и, -ей substantiv f 	beroende
+byg	закрепле́ние -ия; -ия, -ий substantiv n 	tilldelning, förstärkning, fixering
+mtx	закреплять́ (-ляю́ , -ля́ешь; -ля́ют) ipf 1K закрепи́ть (-лю́, -и́шь; -я́т) pf 2K verb 	fästa, förstärka, fixera
+qlu	здоро́вый -ая, -ое; -ые adjektiv 	frisk
+lxk	инфраструкту́ра -ы; -ы, -ø substantiv f 	infrastruktur
+ndq	искаже́ние -ия; -ия, -ий substantiv n 	förvanskning
+njm	исходя́из + Gen. 	med utgångspunkt från
+lit	капита́л -а substantiv m 	kapital
+oeg	ка́чество -а; -а, -ств substantiv n 	kvalitet
+hma	коллекти́в -а; -ы, -ов substantiv m 	kollektiv, arbetsgrupp, personal(grupp)
+vfc	конкуре́нтный -ая, -ое; -ые adjektiv 	konkurrens-
+nxj	конкурентоспосо́бность -и substantiv f 	konkurrenskraft
+cfp	консолида́ция -и; -и, -ий substantiv f 	konsolidering
+ubr	конъюнкту́ра -ы; -ы, -ø substantiv f 	konjunktur
+lxm	космонавт́ -а; -ы, -ов substantiv m 	rymdfarare, kosmonaut
+lms	ландша́фт -а; -ы, -ов substantiv m 	landskap
+unv	лишённый -ая, -ое; -ые adjektiv 	berövad
+axk	макроэкономи́ческий -ая, -ое; -ие adjektiv 	makroekonomisk
+cdv	нагру́зка -и; -и, -зок substantiv f 	belastning
+mrz	надёжность -и; -и, -ей substantiv f 	pålitlighet
+moq	нало́говый -ая, -ое; -ые adjektiv 	skatte-
+jho	настро́йка -и; -и, -стро́ек substantiv f 	stämning, inställning, justering
+wld	неизме́нность -и; -и, -ей substantiv f 	oföränderlighet
+bnc	нейтра́льность -и; -и, -ей substantiv f 	neutralitet
+yzg	ненало́говый -ая, -ое; -ые adjektiv 	icke beskattningsbar, som ej har med skatt att göra
+jbt	обеспе́чение -ия substantiv n 	försörjning
+vdy	ограниче́ние -ия; -ия, -ий substantiv n 	begränsning
+jor	ожида́емый -ая, -ое; -ые adjektiv 	förväntad
+upr	описа́ние -ия; -ия, -ий substantiv n 	beskrivning
+cyp	ориенти́рованный -ая, -ое; -ые adjektiv 	orienterad
+qec	отраже́ние -ия; -ия, -ий substantiv n 	avspegling, reflex
+kiy	перви́чный -ая, -ое; -ые adjektiv 	primär
+ygp	перехо́дный -ая, -ое; -ые adjektiv 	övergångs-
+vbs	пе́речень -чня; -чни, -чней substantiv m 	lista, förteckning
+dhf	пери́од -а; -ы, -ов substantiv m 	period
+rdi	перспекти́вный -ая, -ое; -ые adjektiv 	perspektiv-, långsiktig, som har goda utsikter
+slr	пла́вный -ая, -ое; -ые adjektiv 	flytande
+giq	платёж платежа́; -и, -ей substantiv m 	betalning
+lku	повыше́ние -ия; -ия, -ий substantiv n 	höjning
+zwp	подве́рженный -ая, -ое; -ые adjektiv 	+ Dat. mottaglig, benägen
+epa	подгото́вка -и; -и, -вок substantiv f 	förberedelse
+hpd	подстро́йка -и; -и, -стро́ек substantiv f 	här: anpassning
+bms	положе́ние -ия; -ия, -ий substantiv n 	läge, situation
+phb	постепе́нный -ая, -ое; -ые adjektiv 	successiv, stegvis
+nvb	пра́вило -а; -а, -ø substantiv n 	regel
+zam	предложе́ние -ия; -ия,-ий substantiv n 	förslag
+nuy	предпринима́тель -я; -и, -ей substantiv m 	entreprenör, företagare
+kmi	предсказу́емость -и; -и, -ей substantiv f 	förutsägbarhet
+qtp	предстоя́ть (-стою́, -стои́шь; -стоя́т) ipf 2K verb 	förestå, snart inträffa, stå för dörren
+yox	преобразова́ние -ия; -ия, -ий substantiv n 	omstrukturering
+zxq	преодоле́ние -ия; -ия, -ий substantiv n 	övervinnelse, tillryggaläggande
+ivk	препя́тствие -ия; -ия, -ий substantiv n 	hinder
+wvz	при́нцип -а; -ы, -ов substantiv m 	princip
+dvk	приорите́т -а; -ы, -ов substantiv m 	prioritet
+mui	проведе́ние -ия; -ия, -ий substantiv n 	genomförande
+dxz	прогно́з -а; -ы, -ов substantiv m 	prognos
+ykp	продолжа́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K продо́лжиться (-усь, -ишься; -атся) pf 2K verb 	pågå, fortgå
+ksn	разраба́тывать (-ваю, -ваешь; -вают) ipf 1K разрабо́тать (-аю, -аешь; -ают) pf 1K verb 	utarbeta
+jqy	реа́льный -ая, -ое; -ые adjektiv 	reell
+udi	регули́рование -ия; -ия, -ий substantiv n 	reglering
+ipx	реше́ние -ия; -ия, -ий substantiv n 	lösning
+scn	с учётом 	med hänsyn till
+nvw	сбаланси́рованность -и; -и, -ей substantiv f 	balans
+jin	сбаланси́рованный -ая, -ое; -ые adjektiv 	balanserad
+raj	се́ктор -а; -ы, -ов substantiv m 	sektor
+ogr	серьёзный -ая, -ое; -ые adjektiv 	allvarlig, seriös, grav
+wny	сла́вный -ая, -ое; -ые adjektiv 	ärorik
+dqs	совреме́нный -ая, -ое; -ые adjektiv 	modern, samtida
+ves	состоя́ние -ия; -ия, -ий substantiv n 	tillstånd, beskaffenhet
+xwb	спосо́бствовать (спосо́бствую, -уешь; -уют) ipf 1K по- = pf 1K verb 	främja, gynna
+zgp	справедли́вый -ая, -ое; -ые adjektiv 	rättvis
+cye	среди́ про́чего 	bland annat
+ybq	стаби́льный -ая, -ое; -ые adjektiv 	stabil
+lwo	стимули́рование -ия; -ия, -ий substantiv n 	stimulering
+vxs	структу́рный -ая, -ое; -ые adjektiv 	struktur-
+wdj	тенде́нция -ии; -ии, -ий substantiv f 	tendens
+lgj	това́рищ -а; -и, -ей substantiv m 	kamrat
+bqc	трансформа́ция -ии; -ии, -ий substantiv f 	transformation, omdaning
+bjr	трёхле́тний -яя, -ее; -ие adjektiv 	treårs-
+ylh	уси́ленный -ая, -ое; -ые adjektiv 	förstärkning
+gkh	усло́вие -ия; -ия, -ий substantiv n 	villkor
+fiz	усто́йчивость -и; -и, -ей substantiv f 	stabilitet
+mov	усто́йчивый -ая, -ое; -ые adjektiv 	stabil
+uos	устране́ние -ия; -ия, -ий substantiv n 	avlägsnande
+dak	федера́льный -ая, -ое; -ые adjektiv 	federal
+spz	фина́нсовый -ая, -ое; -ые adjektiv 	finans-
+owz	фина́нсы -ов substantiv pl. 	finanser
+ule	фиска́льный -ая, -ое; -ые adjektiv 	fiskal-
+ged	челове́ческий -ая, -ое; -ие adjektiv 	mänsklig
+tum	шо́к -а; -и, -ов substantiv m 	chock
+gba	эконо́мика -и; -и, -ø substantiv f 	ekonomi
+jdo	экономи́ческий -ая, -ое; -ие adjektiv 	ekonomisk
+cdi	эффекти́вный -ая, -ое; -ые adjektiv 	effektiv
+avh	автомати́чески adverb 	automatiskt
+bgf	а́дресный -ая, -ое; -ые adjektiv 	adress-
+eah	балл -а; -ы, -ов substantiv m 	poäng
+cro	беза́дресный -ая, -ое; -ые adjektiv 	oadresserad
+aco	безнали́чный -ая, -ое; -ые adjektiv 	’genom överföring’
+aro	бли́жнее зарубе́жье substantiv n 	”nära utlandet”, beteckning på stater som till 1991 ingick i Sovjetunionen
+zve	бли́жний -яя, -ее; -ие adjektiv 	nära
+fyl	вруче́ние -ия; -ия, -ий substantiv n 	överlämning
+qum	вы́бор -а; -ы, -ов substantiv m 	val
+wma	вы́дачa -и, -и, -ø substantiv f 	utlämning
+rfv	вы́плата -ы; -ы, -ø substantiv f 	utbetalning
+jdh	грани́ца -ы; -ы, -ø substantiv f 	gräns
+lca	двойно́й -а́я, -о́е; -ы́е adjektiv 	dubbel
+kzm	де́нежный -ая, -ое; -ые adjektiv 	penga-, monetär
+eyk	доста́вка -и; -и, -вок substantiv f 	leverans
+ftz	доставляться (-яю́сь, -яешь́ся; -я́ются) ipf 1K доставиться (-влюсь, -вишься; -вятся) pf 2K verb 	levereras 
+vqz	доступныйая, -ое; -ые adjektiv 	tillgänglig 
+ism	за рубе́ж 	utomlands (riktning)
+lzw	за рубежо́м 	utomlands (befintlighet)
+jde	за грани́цей 	utomlands (befintlighet)
+wpb	за грани́цу 	utomlands (riktning)
+eyv	зака́зывать (-ваю, -ваешь; -вают) ipf 1K заказа́ть (-кажу́, -ка́жешь; -ка́жут) pf 1K verb 	beställa 
+eiq	знáчимый -ая, -ое; -ые adjektiv 	signifikant
+pkn	любо́й -а́я, -ое; -ы́е adjektiv 	vilken som helst
+mba	максима́льный -ая, -ое; -ые adjektiv 	maximal
+sgt	мгнове́нно adverb 	ögonblickligen 
+hmu	на́ дом Obs! betoningen adverb 	hem (riktning)
+ibk	нали́чный -ая, -ое; -ые adjektiv 	tillgänglig, förefintlig. pl. kontanter
+vdp	начисля́ться (-яюсь, -яешь́ ся; -я́ются) ipf 1K начи́слиться (-люсь, -лишся; -лятся) pf 2K verb 	tillgodoräknas
+qsv	некомме́рческий -ая, -ое; -ие adjektiv 	icke-kommersiell
+iwx	обме́ниваться (-аюсь, -аешься; -аются) ipf 1K обменя́ться (-я́юсь, -я́ешься; -я́ются) pf 1K verb 	utbyta
+egu	óбщий -ая, -ее; -ие adjektiv 	allmän
+igk	отделе́ние -ия; -ия, -ий substantiv n 	avdelning, avskiljande, kontor  
+ogk	отправи́тель -я; -и, -ей substantiv m 	avsändare
+bwz	отправле́ние -ия; -ия, -ий substantiv n 	avsändande
+peh	отправля́ть (-я́ю, -я́ешь; -яют́ ) ipf 1K отпра́вить (-влю, -вишь; -вят) pf 2K verb 	skicka, sända
+zjq	перево́д -а; -ы, -ов substantiv m 	överföring, översättning
+yke	пла́та -ы; -ы, -ø substantiv f 	betalning
+zjm	получа́тель -а; -и, -ей substantiv m 	mottagare
+bqw	получа́ть (-а́ю, -а́ешь; -а́ют) ipf 1K получи́ть (-чу, ́ -чишь; -чат) pf 2K verb 	få, erhålla, motta
+xne	по́льзоваться (по́льзуюсь, -уешься; -уются) ipf 1K воспо́льзоваться = pf 1K verb 	använda, utnyttja, åtnjuta
+jmx	по́чта -ы substantiv f 	post
+uxr	почто́вый перево́д substantiv m 	postanvisning
+smd	при preposition + Lok. 	vid, under
+cdy	про́мо-а́кция -и; -и; -й substantiv f 	reklamkampanj
+hby	проце́нт -а; -ы, -ов substantiv m 	procent
+vdq	пункт -а; -ы, -ов substantiv m 	punkt
+snk	пункт вы́дачи substantiv m 	utlämningsställe
+wzk	расчёт -а; -ы; -ов substantiv m 	betalning, beräkning
+anz	рубе́ж -а́; -и́, -е́й substantiv m 	gräns
+spi	рубль -я́; -и́, -е́й substantiv m 	rubel
+meq	ски́дка -и; -и; -док substantiv f 	rabatt
+mhe	составля́ть (-яю, -я́ешь; -яют) ipf 1K соста́вить (-влю, -вишь; -вят) pf 2K verb 	sammansätta, sammanställa, uppgå till
+bou	спо́соб -а; -ы, -ов substantiv m 	sätt, vis, metod
+cuf	су́мма -ы; -ы, -ø substantiv f 	summa
+xkq	то́лько adverb 	bara, endast
+abt	уведомле́ние -ия; -ия, -ий substantiv n 	meddelande
+hzy	уведомле́ние о вруче́нии substantiv n 	avi
+qcl	услуга -и; -и, -ø substantiv f 	tjänst
+abv	физи́ческий -ая, -ое; -ие adjektiv 	fysisk
+bfj	физи́ческое лицо́ substantiv n 	fysisk person
+rkc	форса́ж -a; -и, -ей substantiv m 	forcering
+qzs	цель -и; -и, -ей substantiv f 	mål
+dzs	экспре́сс -а substantiv m 	express
+jkv	юриди́чески знáчимый -ая, -ое; -ые adjektiv 	juridiskt signifikant
+czw	юриди́ческое лицо́ substantiv n 	juridisk person
+mnh	Абу-Да́би [= ОАЭ, = Объединённые Ара́бские Эмира́ты] oböjl. substantiv n 	Abu Dhabi
+hyx	ара́бский -ая, -ое; -ие adj 	arabisk
+jvb	ба́зовый -ая, -ое; -ые adj 	bas-
+kne	безопа́сный -ая, -ое; -ые adj 	säker
+zbm	беспробле́мный -ая, -ое; -ые adj 	problemfri
+iqb	благоприя́тный -ая, -ое; -ые adj 	gynnsam
+mqh	бли́зкий -ая, -ое; -ие adj 	närbelägen
+ajw	бога́тый -ая, -ое; -ые adj 	rik
+cqj	большо́й -а́я, -о́е; -и́е adj 	stor
+ugp	брать (беру, берёшь; ́беру́т) ipf 1K взять (возьму, возьмёшь; ́возьмут́ ) pf 2K verb 	ta
+kvr	бюдже́т -а; -ы, -ов substantiv m 	budget
+dhu	в его́ лице́ 	i hans person
+yhx	в конце́ концо́в 	til syvende og sidst
+lbo	в пе́рвую о́чередь 	i första hand
+yvt	в связи́ с 	i samband med
+zvx	в том числе́ 	däribland
+vmg	ва́жный -ая, -ое; -ые adj 	viktig
+get	вверх adv 	uppåt
+pxm	вкла́дывать (-аю, -аешь; -ают) іpf 1K вложи́ть (-у́, -и́шь; -а́т) pf 1K verb 	satsa, investera
+urt	включа́я preposition + Ack. 	inklusive
+fem	вложе́ние -ия; -ия, -ий substantiv n 	investering
+dyr	вниз adv 	nedför
+egb	внима́ние -ия substantiv n 	uppmärksamhet
+sov	вообще́ adv 	i allmänhet, allmänt
+bkp	вопро́с -а; -ы, -ов substantiv m 	fråga
+tfg	всегда́ adv 	alltid
+zhj	встава́ть (-аю́, -аёшь; -ают́) іpf 1K встать (вста́ну, вста́нешь; вста́нут) pf 1K verb 	stå upp, resa sig, stiga upp
+kmr	встре́ча -и; -и, -ø substantiv f 	möte, träff
+qfa	вчера́шний -няя, -нее; -ие adj 	gårdagens
+osx	вы́годно adv 	nyttig, fördelaktig
+nsa	выполня́ть (-я́ю, -я́ешь; -я́ют) іpf 1K вы́полнить (-ню, -нишь; -нят) pf 2K verb 	uppfylla, utföra
+osy	высо́кий -ая, -ое; -ие adj 	hög
+nyk	гóрький -ая, -ое; -ие adj 	bitter
+hgb	глубо́кий -ая, -ое; -ие adj 	djup
+zsq	гото́виться (-влюсь, -и́шься; -вятся) іpf 2K пригото́виться (-влюсь, -и́шься; -вятся) іpf 2K. Även под- verb 	förbereda sig
+whg	гро́мкий -ая, -ое; -ие adj 	högljudd
+oek	далёкий -ая, -ое; -ие adj 	avlägsen
+ijg	да́льше adv 	vidare
+dtu	де́лать (-аю, -аешь; -ают) іpf 1K сде́лать (-аю, -аешь; -ают) pf 1K verb 	göra
+xof	де́ло -а; -а́, -ø substantiv n 	sak, ärende, affär
+xvk	де́ти ej sg! дете́й, instr. детьми́ substantiv 	barn (pl)
+qnm	дешёвый -ая, -ое; -ые adj 	billig
+dky	до́лгий -ая, -ое; -ие adj 	lång
+lrd	допуска́ть (-а́ю, -а́ешь; -а́ют) іpf 1K допусти́ть (-пущу́, -пу́стишь; -пустят) ́verb 	tillåta
+its	доро́га -и; -и, -ø substantiv f 	väg
+tsd	дорого́й -а́я, -о́е; -и́е adj 	dyr, dyrbar, kär
+oeq	достига́ть (-а́ю, -а́ешь; -а́ют) іpf 1K дости́гнуть (-гну, -гнешь; -гнут) pf 1K. Obs! pret: дости́г, дости́гла osv. verb 	uppnå
+syh	достиже́ние -ия; -ия, -ий substantiv n 	prestation, bedrift
+vtp	дохо́дность -и; -и, -ей substantiv f 	avkastning
+sku	ду́мать (-аю, -аешь; -ают) ipf 1K поду́мать (-аю, -аешь; -ают) pf 1K verb 	tänka, tycka, tro
+gos	е́сли konjunktion 	om, ifall
+jwm	е́хать (е́ду, е́дешь; е́дут) ipf 1K, bestämt rörelseverb пое́хать (-е́ду, -е́дешь; -е́дут) pf 1K verb 	åka, fara
+ndt	жи́тель -я; -и, -ей substantiv m 	invånare
+los	за preposition + Instr. 	bakom
+qye	за́данный -ая, -ое; -ые adj 	given, angiven
+nmg	занима́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K заня́ться (займу́сь, зай,ёшься; займутся) ́ pf 1K verb 	syssla med
+vgu	за́падный -ая, -ое; -ые adj 	västlig
+mtb	запи́сывать (-аю, -аешь; -ают) ipf 1K записа́ть (-пишу́, -пи́шешь; -пи́шут) pf 1K verb 	anteckna, registrera, spela in
+qfs	заслуга ́ -и; -и, -ø substantiv f 	förtjänst
+vpc	и́менно adv 	nämligen
+ope	име́ть в виду́ verb 	avse, mena
+heu	инвестицио́нный -ая, -ое; -ые adj 	investerings-
+lpb	инвести́ция -ии; -ии, -ий substantiv f 	investering
+zdg	инве́стор -а; -ы, -ов substantiv m 	investerare
+ikc	индика́тор -а; -ы, -ов substantiv m 	indikator
+sug	интере́сный -ая, -ое; -ые adj 	intressant
+eqy	к сожале́нию 	tyvärr
+wvs	Кады́ров, Рамза́н Ахма́тович substantiv m 	Ramzan Kadyrov (1976–). Tjetjeniens president sedan 2011.
+rfo	как поло́жено 	som sig bör
+exh	кли́мат -а; -ы, -ов substantiv m 	klimat
+adv	коне́ц -нца́; -нцы́, --нцо́в substantiv m 	slut
+efs	коне́чный -ая, -ое; -ые adj 	slutgiltig
+kgu	конкре́тный -ая, -ое; -ые adj 	konkret
+stk	конча́ть (-нча́ю, -нча́ешь; -нча́ют) ipf 1K ко́нчить (-нчу, -нчишь; -нчат) pf 2K verb 	sluta, avsluta
+wpq	краси́вый -ая, -ое; -ые adj 	vacker
+dca	кре́пкий -ая, -ое; -ие adj 	kraftig
+htg	лёгкий -ая, -ое; -ие adj 	lätt
+tlf	лить (лью, льёшь; льют) ipf 1K verb 	hälla, gjuta
+ihq	ли́чно adv 	personligen
+wdl	лю́ди ej sg! люде́й, instr. людьми́ substantiv 	folk, människor (jfr. ty Leute)
+trb	ма́йские ука́зы substantiv 	”Majdekreten”, samlingsnamn på ett antal policydokument som V. V. Putin skrev under vid sitt tillträde 2012.
+zlw	ма́йский -ая, -ое; -ие adj 	maj-
+boj	ма́ленький -ая, -ое; -ие adj 	liten
+cvh	ма́лый би́знес substantiv m 	småföretag
+mqk	ме́жду preposition + Instr. 	mellan
+exj	ми́р -а; -ы́, -о́в substantiv m 	värld
+kyx	мирово́й -а́я, -о́е; -ы́е adj 	världs-
+loj	молодо́й -а́я, -о́е; -ы́е adj 	ung
+zel	Монго́лия -ии substantiv f 	Mongoliet
+lqe	мусульма́нин -а; -а́не, -ø Obs! böjningen substantiv m 	muslim
+izp	мыть (мо́ю, мо́ешь; мо́ют) ipf 1K помы́ть (помо́ю, помо́ешь; помо́ют) pf 1K Äv. вы-, от verb 	tvätta
+dwt	мя́гкий -ая, -ое; -ие adj 	mjuk
+pib	на са́мом де́ле 	i själva verket, faktiskt
+dfq	над preposition + Instr. 	över
+cou	надёжно adv 	pålitligt
+svr	наоборо́т adv 	tvärtom
+sib	направле́ние -ия; -ия, -ий substantiv n 	riktning
+rsy	не́друг -а; -и, -ов substantiv m 	ovän
+qkl	ни́зкий -ая, -ое; -ие adj 	låg
+ylf	но́вый -ая, -ое; -ые adj 	ny
+spj	нормати́в -а; -ы, -ов substantiv m 	norm
+cbv	обеща́ть (-аю, -аешь; -ают) ipf/pf 1K verb (biaspektuellt) 	lova
+ekt	обраща́ть (-а́ю, -а́ешь; -а́ют) ipf 1K обрати́ть (-щу́, -ти́шь; -тя́т) pf 2K verb 	vända
+ivz	обяза́тельно adv 	absolut, tvunget
+oiu	одева́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K оде́ться (-де́нусь, -де́нешься; -де́нутся) pf 1K verb 	klä sig
+ahz	определённый -ая, -ое; -ые adj 	viss
+mdx	опуска́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K опусти́ться (-пущу́сь, -пу́стишься; -пустятся) ́ pf 2K verb 	sänka sig
+fjg	организова́ть (-зу́ю, -зу́ешь; -зу́ют) ipf/pf 1K ipf äv. организо́вывать verb 	organisera
+alg	осо́бенно adv 	särskilt
+stw	остава́ться (остаю́сь, остаёшься; остаю́тся) ipf 1K оста́ться (оста́нусь, оста́нешься; оста́нутся) pf 1K verb 	stanna, bli kvar
+mht	оте́ль -я; -и, -ей substantiv m 	hotell
+qnl	открыва́ть (-а́ю, -а́ешь; -а́ют) ipf 1K откры́ть (-кро́ю, -кро́ешь; -кро́ют) pf 1K verb 	öppna
+jio	пе́ред preposition + Instr. 	framför, inför
+zhi	писа́ть (пишу́, пи́шешь, пи́шут) ipf 1K написа́ть (-пишу́, -пи́шешь, -пи́шут) ipf 1K verb 	skriva
+ima	пить (пью, пьёшь; пьют) ipf 1K вы́пить (-пью, -пьешь; -пьют) ipf 1K verb 	dricka
+zqj	пла́н -а; -ы, -ов substantiv m 	plan
+cmu	плохо́й -а́я, -о́е; -и́е adj 	dålig
+rtf	поговори́ть se говори́ть verb 	tala lite, prata en stund
+vfz	под preposition + Instr. 	under
+cmf	подде́рживать (-аю, -аешь; -ают) ipf 1K поддержа́ть (-ржу́, -ржишь, -ржат) pf 2K verb 	understödja
+pjh	по-друго́му adv 	annorlunda
+tvk	подсчёт -а; -ы, -ов substantiv m 	sammanräkning, beräkning
+xqi	поздравля́ть (-вля́ю, -вля́ешь; -вля́ют) ipf 1K поздра́вить (-влю, -вишь; -вят) pf 2K verb 	gratulera
+etv	показа́тель -я; -и, -ей substantiv m 	indikator
+tya	пока́зывать (-аю, -аешь; -ают) ipf 1K показа́ть (-кажу, ́ -ка́жешь; -ка́жут) pf 1K verb 	visa
+xmf	по́мнить (-мню, -мнишь; -мнят) ipf 2K verb 	minnas
+luq	по-сво́ему 	på sitt sätt
+fkb	после́дний -яя, -ее; -ие adj 	sista
+zgv	после́дующий -ая, -ое; -ие adj 	följande, påföljande
+dcq	прави́тельство -а; -а, -ств substantiv n 	regering
+tus	пра́здник -а; -и, -ов substantiv m 	högtid
+axt	предвари́тельно adv 	preliminär
+rxg	предыдущий ́ -ая, -ое; -ие adj 	föregående
+rlv	пре́жде всего́ 	framför allt
+rvp	преимущественно ́ adv 	huvudsakligen
+rau	преумножа́ть (-а́ю, -а́ешь; -а́ют) ipf 1K преумно́жить (-жу, -жишь; -жат) pf 2K verb 	öka
+cmj	привлека́тельность -и substantiv f 	attraktion
+scy	приезжа́ть (-а́ю, -а́ешь; -а́ют) ipf 1K прие́хать (-е́ду, -е́дешь; -е́дут) pf 1K verb 	ankomma, anlända, komma (åkande)
+zit	проводи́ть (-вожу́, -во́дишь; -во́дят) ipf 2K провести́ (-веду, ́ -ведёшь, -веду́т) pf 1K verb 	genomföra
+zcg	прожива́ть (-а́ю, -а́ешь; -а́ют) ipf 1K verb 	leva
+aop	происходи́ть (-хожу́, -хо́дишь; -хо́дят) ipf 2K произойти́(-йду́, -йдёшь; -йду́т) pf 1K verb 	ske
+syp	проси́ть (прошу́, про́сишь, про́сят) іpf 2K попроси́ть (-прошу, ́ -про́сишь, -про́сят) pf 2K verb 	be
+klg	просто́й -а́я, -о́е; -ы́е adj 	enkel
+bwd	проходи́ть (-хожу́, -хо́дишь; -хо́дят) ipf 2K пройти́(-йду́, -йдёшь; -йду́т) pf 1K verb 	passera
+rqa	процвета́ющий -ая, -ое; -ие adj 	blomstrande
+lfn	пятизвёздочный -ая, -ое; -ые adj 	femstjärnig
+ujh	рабо́чая встре́ча substantiv f 	arbetsmöte
+bvd	рабо́чий -ая, -ое; -ие adj 	arbets-
+cab	раз -а; -ы́, -ø substantiv m 	gång
+qfp	развива́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K разви́ться (разовью́сь, разовьёшься, разовью́тся) pf 1K verb 	utvecklas
+uth	разви́тиe -ия; -ия, -ий substantiv n 	utveckling
+scb	раздева́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K разде́ться (-де́нусь, -де́нешься; -де́нутся) pf 1K verb 	klä av sig
+qko	ребёнок -нка. Plural, se: де́ти substantiv m 	barn (sg)
+lzf	регио́н -а; -ы, -ов substantiv m 	region
+zay	ре́дкий -ая, -ое; -ие adj 	sällsynt
+ros	ре́зать (-ре́жу, -ре́жешь; -ре́жут) ipf 1K разре́зать (-ре́жу, -ре́жешь; -ре́жут) pf 1K verb 	skära
+cbg	республика ́ -и; -и, -ø substantiv f 	republik
+kuz	руково́дство -а; -а, -ств substantiv n 	ledning
+wrs	с preposition + Instr. 	med
+isl	са́мый -ая, -ое; -ые pronomen 	själva, just, alldeles, allra
+zmc	Сау́довская Ара́вия Gen. Сау́довской Ара́вии substantiv f 	Saudiarabien
+dnv	Се́верный Кавка́з Gen. Се́верного Кавка́за substantiv m 	Norra Kaukasus
+vpt	се́льское хозя́йство Gen. се́льского хозя́йства substantiv n 	jordbruk
+bcd	сла́дкий -ая, -ое; -ие adj 	söt
+ier	слу́шать (-аю, -аешь; -ают) ipf 1K послу́шать (-аю, -аешь; -ают) pf 1K verb 	lyssna
+fje	сниже́ние -ия; -ия, -ий substantiv n 	sänkning
+mnz	совме́стно adv 	gemensamt, ”joint”
+cev	совме́стный -ая, -ое; -ые adj 	gemensam
+voi	совсе́м 	alldeles, helt och hållet
+mnj	создава́ть (-даю́, -даёшь; -даю́т) ipf 1K создать́ (-дам, -дашь; -даду́т) pf oreg. verb 	grunda, skapa
+apy	созда́ние -ия; -ия, -ий substantiv 	grundande, skapande
+jid	сосе́д -а; -и, -ей substantiv m 	granne
+uli	со́тня -и; -и, со́тен substantiv f 	hundratal
+afr	сохраня́ть (-я́ю, -я́ешь; -я́ют) ipf 1K сохрани́ть (-ню́, -ни́шь; -ня́т) pf 2K verb 	bevara
+geq	социа́льный -ая, -ое; -ые adj 	social
+ukj	спаси́бо большо́е 	tack så mycket
+euv	споко́йно 	lugnt
+uer	сре́дний би́знес Gen. сре́днего би́знеса subvstantiv m 	medelstort företag
+hlb	сре́дствo -а- -а, -дств substantiv n 	medel
+cfr	станови́ться (-влю́сь, -вишься; -сятся) ipf 2K стать (ста́ну, ста́нешь; ста́нут) pf 1K verb 	bli
+hfd	ста́рый -ая, -ое; -ые adj 	gammal
+cow	стро́гий -ая, -ое; -ие adj 	sträng
+kup	стро́ить (стро́ю, -о́ишь; -о́ят) ipf 2K постро́ить (-стро́ю, -о́ишь; -о́ят) pf 2K verb 	bygga
+ifp	существова́ть (-ву́ю, -ву́ешь; ву́ют) ipf 1K verb 	existera
+xnp	сфе́ра -ы;-ы, -ø substantiv f 	sfär
+oms	теку́щий -ая, -ое; -ие adj 	löpande
+ejt	те́ма -ы;-ы, -ø substantiv f 	tema
+pei	темп -а; -ы, -ов substantiv m 	tempo, takt
+vih	тёплый -ая, -ое; -ые adj 	varm
+wsr	террито́рия -ии; -ии, -ий substantiv f 	territorium
+afi	ти́хий -ая, -ое; -ие adj 	tyst
+zob	то же са́мое 	detsamma
+lxh	тогда́ 	då
+hcp	то́лстый -ая, -ое; -ые adj 	tjock
+krt	то́нкий -ая, -ое; -ие adj 	tunn, smal
+wgp	тури́ст -а; -ы, -ов substantiv m 	turist
+kqm	уве́ренный -ая, -ое; -ые adj 	övertygad
+znc	узкий ́ -ая, -ое; -ие adj 	trång
+bxu	ука́з -а; -ы, -ов substantiv m 	dekret, ukas
+igv	Ураза́-байра́м (tatariska: ураза́-бəйрəме́) substantiv m 	Eid al-Fitr
+mbk	уровень ́ -вня; -вни, -вней substantiv m 	nivå
+xbu	формирова́ние -ия; -ия, -ий substantiv n 	bildning, utformning
+nci	холо́дный -ая, -ое; -ые adj 	kall
+dmi	хоте́ть (хочу́, хо́чешь; хотя́т) ipf Obs! oreg. böjning захоте́ть (-хочу́, -хо́чешь; -хотя́т) pf verb 	vilja
+qea	ци́фрa -ы; -ы, -фр substantiv f 	siffra
+bvz	цифрово́й -ая, -ое; -ые adj 	digital
+ixa	чем konjunktion 	än (vid jämförelser)
+iqr	чече́нский -ая, -ое; -ие adj 	tjetjensk
+jzi	Чечня́ -и́ substantiv f 	Tjetjenien
+mgp	чи́стый -ая, -ое; -ые adj 	ren
+dev	широ́кий -ая, -ое; -ие adj 	bred, vid
+fqp	эмира́т -а; -ы, -ов substantiv m 	emirat
+lkc	я́ркий -ая, -ое; -ие adj 	klar
+ctx	ана́лиз -а;-ы, -ов substantiv m 	analys
+pur	ассоциация ́ -и; -и, -й substantiv f 	association, förening
+bui	безопасность ́ -и substantiv f 	säkerhet
+hel	бюро́ oböjl. substantiv n 	byrå, kontor
+vzk	в ра́мках 	inom ramarna för
+bxn	в ча́стности 	i synnerhet, nämligen
+haj	вести́сь end. 3 p. ведётся ipf verb 	här: förs
+isf	води́тельский -ая, -ое; -ие adj 	förar-
+xqh	гаранти́рованный -aя, -ое; -ые adj 	garanterad
+sri	госуда́рство -а; -а, -ø substantiv n 	stat
+smw	гражда́нский -aя, -ое; -ие adj 	civil, medborgar-
+mfo	демократи́ческий -aя, -ое; -ие adj 	demokratisk
+laz	де́ятельность -и substantiv f 	verksamhet
+qor	дискриминацио́нный -aя, -ое; -ые adj 	diskriminerings-
+kjh	докла́д -а;-ы, -ов substantiv m 	rapport
+dgl	до́лжен, должна́, должны́ adj 	tvungen
+ryn	друго́й -áя, -о́е; -и́е adj 	annan
+rce	Евро́па -ы substantiv f 	Europa
+brp	жесто́кий -aя, -ое; -ие adj 	grym, brutal
+zry	жизнь -и; -и, -ей substantiv f 	liv
+nsc	зако́н -а; -ы, -ов substantiv m 	lag
+pkw	законода́тельный -aя, -ое; -ые adj 	lagstiftnings-
+sya	законода́тельство -а substantiv n 	lagstiftning
+pam	защи́та -ы substantiv f 	skydd
+vbl	защища́ющий -aя, -ее; -ие adj 	skyddande, som skyddar
+qfb	злой -áя, -о́е; -ы́е adj 	ond
+pls	име́ть (име́ю, -е́ешь; -е́ют) ipf 1K verb 	ha
+ngt	ино́й -áя, -о́е; -ы́е adj 	annan
+dkq	институ́т -а; -ы, -ов substantiv m 	institut, institution
+ifn	к сожале́нию 	tyvärr
+rzq	ка́знь -и substantiv f 	dödsstraff
+kmu	ключево́й -áя, -о́е; -ы́е adj 	nyckel
+fvw	консультацио́нный -aя, -ое; -ые adj 	konsultations-
+biv	конце́пция -и; -и, -й substantiv f 	koncept
+ryq	круг -а; -и́, -о́в substantiv m 	krets, cirkel
+gnt	лицо́ -а́; -а, -ø substantiv n 	person, ansikte
+tlv	междунаро́дный -aя, -ое; -ые adj 	internationell
+cbd	меньшинство́ -а́ substantiv n 	minoritet
+hyb	ме́ра -ы; -ы, -ø substantiv f 	åtgärd, mått
+eum	мероприя́тие -я; -я, -й substantiv n 	åtgärd, evenemang, tillställning
+lvg	мо́жно predikativ 	det går, det är möjligt, man får
+usg	монито́ринг -а substantiv m 	övervakning
+sva	на́до predikativ 	det är nödvändigt, man måste
+fsg	недели́мый -aя, -ое; -ые adj 	odelbar, oskiljaktig
+jyi	недопуще́ние -я; -я, -й substantiv n 	förebyggande (icketillåtande)
+qut	нельзя́ predikativ 	det är omöjligt, det går inte
+ykc	необходи́мо predikativ 	det är nödvändigt
+kga	но́рма -ы; -ы, -ø substantiv f 	norm
+rwn	нра́виться (-влюсь, -вишься; -вяся) ipf 2K понра́виться (-влюсь, -вишься; -вяся) pf 2K verb 	behaga (m. dat: tycka om)
+uva	ну́жно predikativ 	det är nödvändigt, man måste
+lbt	обеспе́чивать (-аю, -аешь; -ают) ipf 1K обеспе́чить (-у, -ишь; -ат) pf 2K verb 	säkerställa, försörja
+umw	обма́нывать (-аю, -аешь; -ают) ipf 1K обманут́ ь (-ану́, -а́нешь; -а́нут) pf 1K verb 	lura, bedra
+vjg	образова́тельный -aя, -ое; -ые adj 	utbildnings-
+cml	обраще́ние -я; -я, -й substantiv n 	här: behandling
+tde	ОБСЕ (Организа́ция по безопа́сности и сотру́дничеству в Евро́пе) se: oрганиза́ция substantiv f 	OSSE
+pko	обяза́тельство -а, -а, -ø substantiv n 	skyldighet
+dqr	ока́зывать (-аю, -аешь; -ают) ipf 1K оказа́ть (-ажу́, -а́жешь, -а́жут) pf 1K verb 	visa, ge, erbjuda (t.ex. hjälp)
+egj	опера́ция -и; -и, -й substantiv f 	operation
+cbf	о́рган -а; -ы, -ов substantiv n 	organ
+mpy	организа́ция -и; -и, -й substantiv f 	organisation
+vxb	основно́й -áя, -о́е; -ы́е adj 	grund
+jsr	осуществлять́ (-яю́ , -я́ешь; -я́ют) ipf 1K осуществи́ть (-влю́, -ви́шь, -вя́т) pf 2K verb 	genomföra, förverkliga, utföra
+nha	отде́льный -aя, -ое; -ые adj 	separat
+xpu	отме́на -ы; -ы, -ø substantiv f 	avskaffande
+hgs	относи́тельно adv 	relativt
+pgc	охва́тывать (-аю, -аешь; -ают) ipf 1K охвати́ть (-ачу́, -а́тишь; -а́тят) pf 2K verb 	omfatta, inbegripa
+loc	передвиже́ние -я; -я, -й substantiv n 	rörelse
+zhb	подде́ржка -и substantiv f 	stöd
+oqm	полево́й adj 	fält
+zoe	по́мощь -и substantiv f 	hjälp
+sra	поощре́ние -я; -я, -й substantiv n 	uppmuntran
+hkg	пра́во -а; -а́, -ø substantiv n 	rätt, rättighet
+ngf	правозащи́тный -aя, -ое; -ые adj 	rättsvårdande
+wga	практи́ческий -aя, -ое; -ие adj 	praktisk
+jae	предоставля́ть предоста́вить verb 	tillhandahålla, ställa till förfogande
+amk	представле́ние -я; -я, -й substantiv n 	föreställning, begrepp
+okx	претворе́ние -я; -я, -й substantiv n 	omdaning, förvandling
+tvo	признава́ть (-наю́, -наёшь; -наю́т) ipf 1K призна́ть (-а́ю, -а́ешь; -а́ют) pf 1K verb 	erkänna
+dpi	примене́ние -я; -я, -й substantiv n 	bruk, användning
+jkw	принадлежа́щий -aя, -ее; -ие adj 	tillhörande, som tillhör
+gox	при́нятый -aя, -ое; -ые adj 	antagen, accepterad
+lwf	продвиже́ние -я; -я, -й substantiv n 	framflyttning, framsteg, befordran
+cox	проце́сс -а; -ы, -ов substantiv m 	process
+rjc	пы́тка -и; -и, пы́ток substantiv f 	tortyr
+rib	рабо́та -ы; -ы, -ø substantiv f 	arbete, arbetsplats
+umk	рад, ра́да; ра́ды end. nom. adj 	glad
+ozt	ра́мкa -и; -и, ра́мок substantiv f 	ram
+pgy	регио́н -а; -ы, -ов substantiv m 	region
+eal	рекоменда́ция -и; -и, -й substantiv f 	rekommendation
+bwj	рели́гия -и; -и, -й substantiv f 	religion
+ofb	рожде́ние -я; -я, -й substantiv n 	födelse
+xml	ря́д -а; -ы́, -о́в substantiv m 	rad
+ehm	с це́лью + infinitiv 	med målet (att)
+vgp	свобо́да -ы; -ы, -ø substantiv f 	frihet
+gqd	ситуа́ция -и; -и, -й substantiv f 	situation
+xwm	сложи́вшийся -aяся, -ееся; -иеся adj 	uppkommen
+gtn	сме́ртный -aя, -ое; -ые adj 	döds-
+vmb	смс-сообще́ние (i talspr. äv. эсэмэ́ска f) se сообще́ние substantiv n 	SMS
+cgd	соблюде́ние -я; -я, -й substantiv n 	iakttagelse
+sat	собра́ние -я; -я, -й substantiv n 	möte, samling
+qah	согла́сен, согла́сна; согла́сны end. nom. adj 	överens, enig
+jyh	соде́йствие -я; -я, -й substantiv n 	medverkan
+rgf	сообще́ние -я; -я, -й substantiv n 	meddelande
+jmc	соотве́тствие -я; -я, -й substantiv n 	motsvarighet
+lqf	сотру́дничество -a substantiv n 	samarbete
+ajp	страте́гия -и; -и, -й substantiv f 	strategi
+ltr	суде́бный -aя, -ое; -ые adj 	domstols-, rätts-
+hwj	техни́ческий -aя, -ое; -ие adj 	teknisk
+ylm	убежде́ние -я; -я, -й substantiv n 	övertygelse
+qej	уваже́ние -я; -я, -й substantiv n 	respekt, uppskattning
+xou	укрепле́ние -я; -я, -й substantiv n 	stärkande
+puk	уси́лие -я; -я, -й substantiv n 	ansträngning
+lfa	уча́стник -а; -и, -ов substantiv m 	deltagare
+fjs	уче́бный -aя, -ое; -ые adj 	läro-, utbildnings-
+phn	фо́рма -ы; -ы, -ø substantiv f 	form, uniform
+scl	целево́й -áя, -о́е; -ы́е adj 	målinriktad, mål-
+zkw	центра́льный -aя, -ое; -ые adj 	central
+etk	че́сть -и substantiv f 	heder, ära
+oxi	широ́кий -aя, -ое; -ие adj 	bred, vid
+dpl	элеме́нт -а; -ы, -ов substantiv m 	element
+awm	а́вгуст -а substantiv m 	augusti
+lep	акти́вный -ая, -ое; -ые adj 	aktiv
+dzr	без preposition + genitiv 	utan
+qeh	бензи́н -а substantiv m 	bensin
+jwi	библиоте́ка -и; -и, -ø substantiv f 	bibliotek
+dwu	благотвори́тельный -ая, -ое; -ые adj 	välgörenhets-
+ajb	ближа́йший -ая, -ее; -ие adj 	närmast
+khs	бу́дущеe -его substantiverat adj n 	framtiden
+for	бы partikel 	markerar konjunktiv
+wqp	в чём смысл 	vad är det för mening med...
+thg	ва́куум -а substantiv m 	vakuum
+huk	ватерпас́ -а; -ы, -ов substantiv m 	vattenpass
+rfc	ведь adv 	ju
+myp	ве́сть -и; -и, -е́й substantiv f 	meddelande, nyhet
+njk	весь вся, всё; все pronomen 	all, hel, pl. alla
+tbd	вме́сто preposition + genitiv	i stället för
+vnl	волонтёр -а; -ы, -ов substantiv m 	volontär
+bqd	вступле́ние -я; -я, -й substantiv n 	inträdande
+ewx	га́лстук -а; -ы, -ов substantiv m 	slips
+kgb	гото́вый -ая, -ое; -ые adj 	beredd, färdig
+uao	де́йствовать (-вую, -вуешь, -вуют) ipf 1K verb 	agera
+ukr	дека́брь -а substantiv m 	december
+vcn	день дня; дни, дней substantiv m 	dag
+sim	деся́ток -тка; -тки, -тков substantiv m 	tiotal
+xlr	ди́зель -я substantiv m 	diesel
+nej	для preposition + genitiv	för
+atb	до preposition + genitiv	ända till
+wnr	доброво́лец -во́льца; -во́льцы, -во́льцев substantiv m 	frivillig
+kfa	до́лжeн -лжна́, -лжно́; -лжны́ adj 	tvungen
+wka	до́лжность -и; -и, -ей substantiv f 	befattning, ämbete
+kyv	есть verb 	finns
+xve	же partikel 	ju
+sdn	жильё -я substantiv n 	boende, bostäder
+dys	журна́л -а; -ы, -ов substantiv m 	tidskrift
+owr	зада́ча -и; -и, -ø substantiv f 	uppgift
+nis	зарплата́ (eg. за́работная пла́та ’betalning för arbete’) -ы; -ы, -ø substantiv f 	lön
+hfx	здоро́вье -вья substantiv n 	hälsa
+lxg	здравоохране́ние -я substantiv n 	hälsovård
+smf	зна́ть (зна́ю, -а́ешь; -а́ют) ipf 1K verb 	veta, kunna
+ckd	из preposition + genitiv 	ur, från
+ymr	из-за preposition + genitiv 	på grund av
+mgi	им (dat. pl. av они́, se L5) pronomen dativ 	för dem
+txd	и́менно adv 	nämligen
+day	интере́с -а; -ы, -ов substantiv m 	intresse
+lmt	инфляция ́ -и substantiv f 	inflation
+ghc	исключи́тельно adv 	uteslutande
+dzm	исто́рия -и; -и, -й substantiv f 	historia
+egc	како́й -а́я, -о́е; -и́е pronomen interrogativt 	vilken, hurdan
+clq	кана́л -а; -ы, -ов 	kanal
+qcm	кани́кулы end. pl. substantiv f 	skollov, ferier
+jve	ке́сарево сече́ние substantiv n 	kejsarsnitt
+hra	кли́кать (-аю, -аешь; -ают) ipf 1K кли́кнуть (-ну, -нешь; -нут) pf 1K verb 	klicka (på datorn)
+kue	кни́гa жа́лоб substantiv f 	klagomålsbok
+vgj	корреляция ́ -и substantiv f 	korrelation
+znm	кото́рый -ая, -ое; -ые pronomen relativt 	vilken, som
+hqz	кро́ме preposition + genitiv 	utom, förutom
+omj	кусо́к -ска́; -ски́, -ско́в substantiv m 	bit
+cli	ли́ния -и; -и, -й substantiv f 	linje
+gcj	лосо́сь -я; -и, -ей substantiv m 	lax
+gzn	мая́к -а́; -и́, -о́в substantiv m 	fyr
+cwd	ме́лкий -ая, -ое; -ие adj 	liten, obetydlig, grund
+eol	миллио́н -а; -ы, -ов substantiv m 	miljon
+zak	мину́тка -и; -и, -ток substantiv f 	ögonblick
+fzt	молодо́й -а́я, -о́е; -ы́е adj 	ung
+cks	моме́нт -а; -ы, -ов substantiv m 	stund, ögonblick, moment
+fjc	мэр -а; -ы, -ов substantiv m 	borgmästare
+zen	нахожде́ние -я substantiv n 	närvaro
+lcf	на́ш -а, -е; -и pronomen possessivt 	vår, vårt; våra
+rjf	не́сколько mängdord 	flera, åtskilliga
+ufe	обще́ственный -ая, -ое; -ые adj 	samhälls
+usq	объя́вленный -ая, -ое; -ые adj 	deklarerad, tillkännagiven
+kft	огро́мный -ая, -ое; -ые adj 	enorm
+wiz	о́коло preposition + genitiv 	omkring, cirka, vid
+uxk	организа́ция -и; -и, -й substantiv f 	organisation
+wkf	о́стрый -ая, -ое; -ые adj 	skarp, spetsig
+bod	от preposition + genitiv 	från
+dmy	отве́тственность -и; -и, -ей substantiv f 	ansvar
+ljc	открове́нно говоря́ 	ärligt talat
+nxu	о́чень adv 	mycket
+htk	о́чередь -и, -и; -ей substantiv f 	kö, tur
+zdn	парикмахер ́ -а; -ы, -ов substantiv m 	frisör
+qxr	пе́нсия -и; -и, -й substantiv f 	pension
+xso	пе́рвый -ая, -ое; -ые räkneord ordningstal 	första
+lwz	перезванивать ́ (-аю, -аешь; -ают) ipf 1K перезвони́ть (-ню́, -ни́шь; -ня́т) verb 	ringa upp
+aev	перекла́дывать (-аю, -аешь; -ают) ipf 1K переложи́ть (-жу́, жи́шь, -жа́т) pf 2K verb 	lägga över, hänskjuta
+fgd	повторяться ́ (-я́юсь, -я́ешься; -яются ́ ) ipf 1K повтори́ться (-рю́сь, -ри́шься; -я́тся) pf 2K 	upprepas
+tah	по́сле preposition + genitiv 	efter
+bwe	поэт́ ому adv 	därför
+flv	превращать́ (-а́ю, -а́ешь; -а́ют) ipf 1K преврати́ть (-вращу́, -врати́шь, -вратя́т) pf 2K verb 	förvandla
+jfy	представи́тель -я; -и, -ей substantiv m 	företrädare
+zro	президе́нт -а; -ы, -ов substantiv m 	president
+ovs	пригота́вливать (-аю, -аешь; -ают) ipf 1K пригото́вить (-влю, -вишь; -вят) pf 2Kverb 	förbereda
+zdj	принимать (-а́ю, -а́ешь; -а́ют) ipf 1K приня́ть (приму́, -мешь; -мут) pf 1K 	ta emot
+oak	принуждать́ (-а́ю, -а́ешь; -а́ют) ipf 1K принудить ́ (-ужу ́ , -удишь ́ ;-у́дят) pf 2K 	verb tvinga
+bnl	пробле́ма -ы; -ы, -ø substantiv f 	problem
+jau	програ́мма -ы; -ы, -ø substantiv f 	program
+ihj	про́тив preposition + genitiv 	mittemot, mot
+fsr	за и про́тив 	’för och emot’
+mri	прямо́й -ая, -ое; -ые adj 	rak
+vez	пье́са -ы; -ы, -ø substantiv f 	(teater)pjäs
+pdx	рабо́тать (-аю, -аешь; -ают) ipf 1K verb 	arbeta
+sfz	ра́ди preposition + genitiv 	för... skull
+lde	радиостанция ́ -и; -и, -й substantiv f 	radiostation
+olc	разуме́ется verb 	förstås
+hxm	рассказыва ́ ть (-аю, -аешь; -ают) ipf 1K рассказа́ть (-скажу́, -ска́жешь; -ска́жут) verb 	berätta
+qwu	ребя́та G. pl. ребя́т substantiv 	ungdomar, grabbar. Tilltal till ungdomar av bägge kön
+buv	револю́ция -и; -и, -й substantiv f 	revolution
+vfa	рост -а substantiv m 	tillväxt, ökning
+atn	с preposition + genitiv 	från, av
+zbj	свой -я́, -ё; -и́ pronomen possessivt, reflexivt 	sin, sitt; sina
+vsx	сего́дня adv 	idag
+kew	си́мвол -а; -ы, -ов substantiv m 	symbol
+vds	систе́ма -ы; -ы, -ø substantiv f 	system
+qky	слы́шать (-шу, -шишь; шат) ipf 2K услы́шать (-шу, -шишь; шат) pf 2K verb 	höra
+whl	смартфо́н -а; -ы; -ов substantiv m 	smartphone
+tmr	смысл -а; -ы, -ов substantiv m 	betydelse, mening
+jsl	специа́льный -ая, -ое; -ые adj 	särskild, speciell
+mtz	среди́ preposition + genitiv 	bland
+rhc	сти́мул -a; -ы, -ов 	substantiv m
+uda	сту́дия -и; -и, -й substantiv f 	studio, äv. studium
+lwq	сюже́т -а; -ы, -ов substantiv m 	handling, tema, ämne
+puv	телеви́дение -я substantiv n 	television
+lbn	телекана́л -а; -ы, -ов substantiv m 	tevekanal
+pry	те́ма -ы; -ы, -ø substantiv f 	tema
+kqy	традицио́нно adv t	raditionellt
+vrg	трамвай́ -я; -и, -ев substantiv m 	spårvagn
+sqv	тра́ур -а substantiv m 	sorg (som offentlig handling)
+nvj	у preposition + Genitiv 	hos, vid
+hey	удаваться ́ (pr. 3 p sg. удаётся) удáться (fut. 3 p. sg. уда́стся, pret. удалóсь) verb 	lyckas
+iyk	файл -а; -ы, -ов substantiv m 	fil
+zks	фаст-фу́д -а substantiv m 	snabbmat
+qrp	филе́ oböjl. substantiv n 	filé
+tym	флеш-дра́йв -а; -ы, -ов substantiv m 	USB-minne
+gnf	хара́ктерный -ая, -ое; -ые adj 	karakteristisk, utmärkande
+cvj	хоте́ться (pres. 3 p. sg. хо́чется; pret. хоте́лось) verb 	ha lust
+dmb	цена́ -ы́; -ы, -ø substantiv f 	pris
+mak	центр -а; -ы, -ов substantiv m 	centrum
+mgu	ча́сто adv 	ofta
+tby	чино́вник -а; -и, -ов substantiv m 	ämbetsman, byråkrat
+smt	ште́мпель -я; -я́, -е́й substantiv m 	stämpel
+lnp	эфи́р -а substantiv m 	eter
+jnb	благодари́ть (-ю́, -ишь; -я́т) ipf 2K поблагодари́ть (-ю́, -ишь; -я́т) pf 2K verb	tacka (verbet)
+hdk	был была́, бы́ло; бы́ли verb preteritum 	var
+qrn	ви́деть (ви́жу, ви́дишь; ви́дят) ipf 2K уви́деть (уви́жу, уви́дишь; уви́дят) pf 2K verb 	se
+jlb	возгора́ние -я; -я, -й substantiv n 	antändning
+iom	вопро́с -а; -ы, -ов substantiv m 	fråga
+kut	второ́й -ая, -ое; -ые adjektiv, ordningstal 	andra
+xan	год -а; го́ды, G. pl. лет substantiv m 	år
+wrj	де́вушка -и; -и, -шек substantiv f 	flicka (i tonåren och uppåt)
+olu	до́брый -ая, -ое; -ые adj 	god, bra
+cso	дом -а; -а́, -о́в substantiv m 	hus
+qmt	ДТП (доро́жнотра́нспортное происше́ствие) förkortning 	trafikolycka
+myq	дуть (3 p .sg. ду́ет) ipf 1K verb 	blåsa
+iwt	ду́ет 	’det blåser’
+axv	ещё adv 	ytterligare, ännu, fortfarande
+lnr	загора́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K загоре́ться (загорю́сь, загори́шься; загоря́тся) pf 2K verb refl. 	börja brinna, fatta eld
+uyk	и пр. (и прочие) förkortning 	och andra
+rfp	и т. п. (и тому́ подо́бное) förkortning 	med mera; och dylikt
+nfa	и т.д. (и так да́лее) förkortning 	och så vidare
+zkr	изолятор ́ -а, -ы, -ов substantiv m 	isoleringscell
+ugw	информа́ция -ии; -ии, -ий substantiv f 	information
+oyl	кварти́ра -ы;-ы, -ø substantiv f 	lägenhet
+gtl	коне́чно adv 	självklart, förstås
+pmu	Краснода́р -а substantiv m 	Krasnodar (”den röda gåvan”). Stad i s. Ryssland. Före 1920 Jekaterinodar.
+khu	кра́сный -ая, -ое; -ые adj 	röd
+ovf	ликвиди́рован -а, -е; -ы preteritum particip passivum (kortform) 	likviderad
+fhz	локализо́ван -а, -е; -ы preteritum particip passivum (kortform) 	lokaliserad 
+whk	микрорайо́н -а; -ы, -ов substantiv m 	bostadsområde
+yxk	мно́гий -ая, -ое; -ие adj 	mången
+zok	многокварти́рный -ая, -ое; -ые adj 	flerfamiljs-, eg. ”med många lägenheter”.
+qyx	мо́жно (motsats: нельзя́) adv 	det går; det är möjligt; det är tillåtet
+vcb	музыка́льный -ая, -ое; -ые adj 	musikalisk
+xqw	Музыка́льное 	Muzykalnoe, ett bostadsområde i Krasnodar
+zpq	наприме́р, напр. 	till exempel
+owb	начина́ться (-а́юсь, -а́ешься; -а́ются) ipf 1K нача́ться (начну́сь, начнёшься; начну́тся) pf 1K verb refl. 	börja
+gsi	нельзя́ (motsats: мо́жно) adv 	det går inte; man får inte; man bör inte
+dqi	обсужда́ть (-а́ю, -а́ешь; -а́ют) ipf 1K обсуди́ть (-сужу́, -су́дишь; -су́дят) pf 2K verb 	diskutera
+swc	ого́нь огня; огн ́ и́, огне́й substantiv m 	eld
+smr	пиа́р -а substantiv m 	PR, public relations
+yap	пиа́рить (-ю, -ишь; -ят) ipf 2K пропиа́рить (-ю, -ишь; -ят) pf 2K verb vard. 	göra PR för, propagera för
+bhv	пло́щадь -и; -и, -е́й substantiv F2 	yta, torg
+nzm	погиба́ть (-а́ю, -а́ешь; -а́ют) ipf 1K поги́бнуть (-ну, -нешь; -нут) pf 1K verb pret. поги́б, -ла, -ло, ли 	omkomma, dö, förgås
+npi	пожа́р -а; -ы, -ов substantiv m 	brand
+roz	пожа́рный -ого; -ые, -ых substantiverat adj m 	brandman
+gji	по́лностью adv 	helt och hållet, fullständigt
+trv	понима́ть (-а́ю, -а́ешь; -а́ют) ipf 1K поня́ть (пойму́, поймёшь; пойму́т) pf 1K verb 	förstå
+vgt	поступа́ть (end. 3 p .sg. поступа́ет) ipf 1K поступи́ть (end. 3 p .sg. посту́пит) pf 2K verb 	inkomma
+etp	РБК (РосБи́знесКонса́лтинг) 	RosBusinessConsulting, ett mediaföretag
+rbt	результа́т -а; -ы, -ов substantiv m 	resultat
+amp	РФ (Росси́йская Федера́ция) förkortning 	Ryska federationen
+hot	сгора́ть (-а́ю, -а́ешь; -а́ют) ipf 1K сгоре́ть (-ю́, - и́шь; -я́т) pf 2K verb 	brinna upp, brinna ned
+bhr	СИЗО (сле́дственный изоля´тор) förkortning 	häkte
+cul	си́льный -ая, -ое; -ые adj 	stark
+rnq	сли́шком adv 	alltför; alldeles; för mycket; i överkant
+jcx	слу́шать (-а́ю, -а́ешь; -а́ют) ipf 1K verb 	lyssna
+euk	сообща́ть (-а́ю, -а́ешь; -а́ют) ipf 1K сообщи́ть (-щу́, -щи́шь; ща́т) pf 2K verb 	meddela, rapportera
+hsc	сообще́ние -я; -я, -й substantiv n 	meddelande
+ngb	уже́ adv 	redan. Här: minsann
+npj	у́лица -ы; -ы, -ø substantiv f 	gata
+noz	хорошо́ adv 	bra
+xjl	челове́к -а; pl. лю́ди, люде́й (Obs! en särskild form – челове́к – anv. i Gen. pl. när ordet används om grupper av människor. 100 челове́к = 100 man) substantiv m 	människa
+ase	эта́ж -а́; -и́, -е́й substantiv m 	våningsplan
+vwe	эта́жный -ая, -ое; -ые adj 	-vånings
+qhn	a	konjunktion men/och
+rhd	а́вто förkortning 	motsv. sv. auto
+klu	а́рмия -ии; -ии, -ий	substantiv f armé
+zea	би́знес -а substantiv m	affärsverksamhet, affärer, handel, business
+zqx	большо́й -ое, -ая; -ые adjektiv	stor
+qci	бы́стро adverb	snabbt, fort
+cej	быть ipf (3 р.sg. есть ’det finns’) verb	vara
+ezq	вино́ -а́; -а, -ø substantiv n	vin
+rlm	власть -и; -и, -ей substantiv f	makt
+vtz	влия́ть (-а́ю, -а́ешь; -а́ют) ipf 1K повлия́ть (-а́ю, -а́ешь; -а́ют) pf 1K verb	påverka
+tim	вре́мя вре́мени; времена́, времён substantiv n	tid
+ils	вы pronomen	ni
+wlp	газе́та -ы; -ы, -ø substantiv f	tidning
+pli	га́зовый -ое, -ая, -ые adjektiv	gas-
+xil	где frågeadverb	var?
+nez	говори́ть (-ю́, -ишь; -я́т) ipf 2K сказа́ть (скажу, ́ ска́жешь; ска́жут) pf 1K verb	tala/säga
+kus	го́род -а; -а́, -о́в substantiv m	stad
+hlj	дава́ть (даю́, даёшь; даю́т) ipf 1K дать (дам, дашь; дадут)́ pf oreg. verb 	ge
+uvp	джип oböjl. substantiv f 	Jeep (bilmärke)
+icn	есть1 3 p.sg. av быть verb 	det finns
+sct	есть2 (ем, ешь; едя́т) ipf oreg. съесть (съем, съешь; съедя́т) pf oreg. verb 	äta
+urc	ещё adv 	ännu, fortfarande
+ptk	же́нский -о́е, -а́я; -и́е adj 	feminin, kvinnlig
+cxh	заче́м adv 	varför (i vilket syfte)
+rsf	здесь adv 	här
+ams	и konjunktion 	och, även
+ury	игра́ть (-а́ю, -а́ешь; -а́ют) ipf 1K сыгра́ть pf = 	spela
+yms	идти́(иду́, идёшь; иду́т) ipf 1K verb bestämt rörelseverb 	gå
+foc	и́мя и́мени; имена́, имён substantiv n 	namn
+etf	интервью́ oböjl. substantiv n 	intervju
+oeu	ка́ждый -ое, -ая; -ые adjektiv/pronomen 	varje, var och en, envar
+srn	казино́ oböjl. substantiv n 	casino
+skm	как frågeadverb 	hur?
+dko	кни́га -и; -и, -ø substantiv f 	bok
+czu	ко́фе oböjl. substantiv m 	kaffe
+yeo	кто frågeadverb 	vem?
+mfu	культу́ра -ы; -ы, -ø substantiv f 	kultur
+jrh	ло́шадь -и; -и, -е́й substantiv f 	häst
+mpx	люби́ть (-блю́, -бишь; -бят) ipf 2K verb 	älska, tycka om
+aqi	лю́ди plural substantiv 	människor, folk (jfr tyska Leute)
+evd	маши́на -ы; -ы, -ø substantiv f 	bil
+hkt	метро́ oböjl. substantiv n 	tunnelbana
+jtq	мне́ниe -ия; -ия, -ий substantiv n 	åsikt
+kpy	мужско́й -о́е, -а́я; -и́е adj 	maskulin, manlig
+bar	мы pronomen 	vi
+uqv	нау́ка -и; -и, -ø substantiv f 	vetenskap
+idb	нефть -и substantiv f 	olja
+mdo	но konjunktion 	men (underordnande)
+ofh	но́вость -и; -и, -е́й substantiv f 	nyhet
+cer	о́бщество -а substantiv n 	samhälle, sällskap, företag
+eli	он, она́, оно́; они́ pronomen m f n; pl. 	han, hon, den/det; de
+mfx	поли́тикa -и substantiv f 	politik
+cpr	почему́ adv 	varför (av vilken orsak)
+ilt	президе́нт a; -ы, -ов substantiv m 	president
+nlk	промы́шленность -и; -и, -ей substantiv f 	industri
+dqx	профе́ссор -а; -а́, -о́в substantiv m/f 	professor
+isg	реша́ть (-а́ю, -а́ешь; -а́ют) ipf 1K реши́ть (-шу́, -ши́шь; -ша́т) pf 2K verb 	lösa, bestämma
+slt	род -а/-у, -ы́, -о́в substantiv m 	genus, ätt, släkte
+djn	росси́йский -ое, -ая, -ие adj 	rysk (som avser landet Ryssland)
+hnq	ру́сский -ое, -ая, -ие adj 	rysk (etniskt och eller kulturellt rysk)
+mto	ско́рость -и; -и, -ей substantiv f 	hastighet
+abr	смотре́ть (-трю́, -тришь; -трят) ipf 2K посмотре́ть pf = verb 	titta
+hib	спорт -а; -ы, -ов substantiv m 	sport
+hap	среда́ -ы́; -ы, -ø substantiv f 	onsdag; miljö; omgivning
+shj	сре́дний -ее, -яя; -ие adj 	neutrum, medel
+msf	стиль -я substantiv m 	stil, tideräkning
+lmb	Суба́ру oböjl. substantiv f 	Subaru (bilmärke)
+bye	так adv 	så
+gdl	такси́ oböjl. substantiv n 	taxi
+bym	там adv 	där
+cjk	техноло́гия -ии; -ии, -ий substantiv f 	teknologi
+jyd	ты pronomen 	du
+diy	умира́ть (-а́ю, -а́ешь; -а́ют) ipf 1K умере́ть (умру́, умрёшь; умру́т) pf 1K verb 	dö
+erl	федера́ция -ии; -ии, -ий substantiv f 	federation
+eax	футбо́л -а substantiv m 	fotboll (sporten)
+alp	чита́ть (-а́ю, -а́ешь; -а́ют) ipf 1К прочита́ть pf 1K verb 	läsa
+vti	что (uttalas ’sjtå’ ) pronomen 	vad
+kwh	шабли́ oböjl. substantiv n 	Chablis-vin
+kgd	э́то pronomen 	det
+wvp	я pronomen 	jag
