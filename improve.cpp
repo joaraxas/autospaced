@@ -43,8 +43,8 @@ int main() {
 	//~ vector<string> delimiters = {": ","\t" , ": ", "\t", ": "};
     //vector<string> languages = {"schweizertyska"};
 	//vector<string> delimiters = {": "};
-    vector<string> languages = {"en"};
-	vector<string> delimiters = {"\t"};
+    vector<string> languages = {"korean"};
+	vector<string> delimiters = {": "};
     //~ vector<string> languages = {"ryskaidag", "farsi"};
 	//~ vector<string> delimiters = {"\t", ": "};
 	int keepplaying = 1;
