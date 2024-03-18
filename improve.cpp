@@ -1,6 +1,10 @@
 #include <string>
 #include <iostream>
+#include <algorithm>
+#include <iterator>
+#include <random>
 #include <windows.h>	 	//for utf-8 windows console output
+#include <fstream>
 #include <vector>
 using namespace std;
 
@@ -34,11 +38,11 @@ int main() {
     SetConsoleOutputCP(65001);
 	string in;
 	
-    //~ vector<string> languages = {"japanska", "kannada", "tyska", "rougon", "franska"};
+    //~ vector<string> languages = {"langs/japanska", "langs/kannada", "langs/tyska", "langs/rougon", "langs/franska"};
 	//~ vector<string> delimiters = {": ","\t" , ": ", "\t", ": "};
-    vector<string> languages = {"schweizertyska"};
+    vector<string> languages = {"langs/schweizertyska"};
 	vector<string> delimiters = {": "};
-    //~ vector<string> languages = {"ryskaidag", "farsi"};
+    //~ vector<string> languages = {"langs/ryskaidag", "langs/farsi"};
 	//~ vector<string> delimiters = {"\t", ": "};
 	int keepplaying = 1;
 	bool opposite = 1;
