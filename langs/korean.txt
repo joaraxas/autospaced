@@ -14,7 +14,7 @@ fvi	eonje: när?
 ghw	eodi: var?
 xha	집에서: i huset, hemma
 yit	igeo : det här
-gwc	ppalda: tvätta
+gwc	balda: tvätta
 myd	ㅇㅋ: ok
 tgj	ne ot: mina kläder
 jkn	ia: är
@@ -41,4 +41,4 @@ arx	pegopa: hungrig
 epq	pebulleo: mätt
 zpe	jigeum: nu
 aox	mogo: essen
-dfh	manta mana: sehr viel
+dfh	mana: viel
