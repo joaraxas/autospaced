@@ -1,3 +1,23 @@
+zoh	hana: 1 (koreanska)
+wgc	dul: 2 (koreanska)
+otl	set: 3 (koreanska)
+grs	net: 4 (koreanska)
+mlp	daseot: 5 (koreanska)
+gsd	yeoseot: 6 (koreanska)
+dkx	ilgop: 7 (koreanska)
+yfp	yeodeol: 8 (koreanska)
+jhq	ahop: 9 (koreanska)
+iyl	yeol: 10 (koreanska)
+rve	il: 1 (sino)
+wyk	i: 2 (sino)
+cra	sam: 3 (sino)
+skb	sa: 4 (sino)
+kdn	o: 5 (sino)
+wou	yuk: 6 (sino)
+lwx	chil: 7 (sino)
+qgr	pal: 8 (sino)
+lqo	gu: 9 (sino)
+nkx	ship: 10 (sino)
 flm	najunge: nachher
 eoa	takja oiee: på bordet
 dub	hangugmal: koreanska
